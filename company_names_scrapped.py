@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# Liste des URL cibles
 urls = [
     "https://growjo.com/industry/AI",
     "https://growjo.com/industry/AI/2",
