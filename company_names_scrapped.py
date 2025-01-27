@@ -18,19 +18,19 @@ headers = {
 all_data = []
 
 for url in urls:
-    print(f"Traitement de l'URL : {url}")
+    print(f" URL processing : {url}")
     response = requests.get(url, headers=headers)
 
     if response.status_code == 200:
-        print(f"Requête réussie pour {url}, analyse des données...")
+        print(f"Successful request for {url}, data analysis...")
         soup = BeautifulSoup(response.text, "html.parser")
         data = []
 
         table = soup.find("table")
         if table:
-            print("Tableau trouvé, extraction des données en cours...")
+            print("Table found, data extraction in progress...")
             rows = table.find_all("tr")
-            for row in rows[1:]:  # Ignorer l'en-tête
+            for row in rows[1:]:  
                 columns = row.find_all("td")
                 if columns:
                     company_name = columns[1].text.strip() if len(columns) > 1 else "N/A"
@@ -38,8 +38,8 @@ for url in urls:
                         "Company Name": company_name,
                     })
         else:
-            print("Aucun tableau trouvé, recherche d'autres structures...")
-            containers = soup.find_all("div", class_="organizationName")  # Modifier la classe si nécessaire
+            print("No table found, looking for other structures...")
+            containers = soup.find_all("div", class_="organizationName") 
             for container in containers:
                 company_name = container.find("div", class_="row-cell-value nameField").text.strip() if container.find("div", class_="row-cell-value nameField") else "N/A"
                 data.append({
@@ -48,14 +48,14 @@ for url in urls:
 
         all_data.extend(data)
     else:
-        print(f"Erreur lors de la requête pour {url} : {response.status_code}")
-        containers = soup.find_all("div", class_="organizationName")  # Modifier la classe si nécessaire
+        print(f"Error when requesting {url} : {response.status_code}")
+        containers = soup.find_all("div", class_="organizationName")  
         for container in containers:
                 company_name = container.find("div", class_="row-cell-value nameField").text.strip() if container.find("div", class_="row-cell-value nameField") else "N/A"
 
 if all_data:
     df = pd.DataFrame(all_data)
     df.to_csv("Scraped_Companies_names.csv", index=False)
-    print("Données exportées avec succès dans 'Scraped_Companies_MultipleURLs.csv'.")
+    print("Data successfully exported to 'Scraped_Companies_names.csv'.")
 else:
-    print("Aucune donnée n'a été collectée.")
+    print("No data collected.")
