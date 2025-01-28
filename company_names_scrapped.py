@@ -49,9 +49,9 @@ for url in urls:
                         "Company Name": company_name,
                     })
             elif "tracxn" in url:
-                containers = soup.find_all("h2")  # Look for this class to find company names
+                containers = soup.find_all("h2")  
                 for container in containers:
-                    company_name = container.find("a")  # The company name is within <h2> tags
+                    company_name = container.find("a")  
                     company_name = company_name.text.strip() if company_name else "N/A"
                     data.append({
                         "Company Name": company_name,
