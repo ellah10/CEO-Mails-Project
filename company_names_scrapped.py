@@ -7,6 +7,7 @@ urls = [
     "https://growjo.com/industry/AI/2",
     "https://growjo.com/industry/AI/3",
     "https://www.forbes.com/lists/ai50/",
+    "https://www.datamation.com/featured/ai-companies/",
 ]
 
 
@@ -39,9 +40,9 @@ for url in urls:
                     })
         else:
             print("No table found, looking for other structures...")
-            containers = soup.find_all("div", class_="organizationName") 
+            containers = soup.find_all("div","h3", class_="organizationName") 
             for container in containers:
-                company_name = container.find("div", class_="row-cell-value nameField").text.strip() if container.find("div", class_="row-cell-value nameField") else "N/A"
+                company_name = container.find("div","strong", class_="row-cell-value nameField").text.strip() if container.find("div", class_="row-cell-value nameField") else "N/A"
                 data.append({
                     "Company Name": company_name,
                 })
