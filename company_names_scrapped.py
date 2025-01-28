@@ -7,7 +7,8 @@ urls = [
     "https://growjo.com/industry/AI/2",
     "https://growjo.com/industry/AI/3",
     "https://www.forbes.com/lists/ai50/",
-    "https://www.datamation.com/featured/ai-companies/",  
+    "https://www.datamation.com/featured/ai-companies/", 
+    "https://tracxn.com/d/artificial-intelligence/ai-startups-in-enterprise-software-in-china/__q4JgD1q-ysBg2_1Ln6xU3mLX1Umfce5gM-l2mY8ffks/companies#t-1-agora", 
 ]
 
 headers = {
@@ -43,6 +44,14 @@ for url in urls:
                 containers = soup.find_all("h3") 
                 for container in containers:
                     company_name = container.find("strong")  
+                    company_name = company_name.text.strip() if company_name else "N/A"
+                    data.append({
+                        "Company Name": company_name,
+                    })
+            elif "tracxn" in url:
+                containers = soup.find_all("h2")  # Look for this class to find company names
+                for container in containers:
+                    company_name = container.find("a")  # The company name is within <h2> tags
                     company_name = company_name.text.strip() if company_name else "N/A"
                     data.append({
                         "Company Name": company_name,
