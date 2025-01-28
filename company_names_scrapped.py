@@ -12,6 +12,8 @@ urls = [
     "https://www.scrums.com/top-100-ai-companies-in-africa",
     "https://www.topdevelopers.co/directory/ai-companies/canada",
     "https://www.topdevelopers.co/directory/ai-companies/canada?country=canada&page=2",
+    "https://www.topdevelopers.co/directory/ai-companies/uae",
+    "https://www.topdevelopers.co/directory/ai-companies/uae?country=uae&page=2",
 ]
 
 headers = {
