@@ -9,6 +9,7 @@ urls = [
     "https://www.forbes.com/lists/ai50/",
     "https://www.datamation.com/featured/ai-companies/", 
     "https://tracxn.com/d/artificial-intelligence/ai-startups-in-enterprise-software-in-china/__q4JgD1q-ysBg2_1Ln6xU3mLX1Umfce5gM-l2mY8ffks/companies#t-1-agora", 
+    "https://www.scrums.com/top-100-ai-companies-in-africa",
 ]
 
 headers = {
@@ -52,6 +53,14 @@ for url in urls:
                 containers = soup.find_all("h2")  
                 for container in containers:
                     company_name = container.find("a")  
+                    company_name = company_name.text.strip() if company_name else "N/A"
+                    data.append({
+                        "Company Name": company_name,
+                    })
+            elif "scrums" in url:
+                containers = soup.find_all("div", class_="header-and-industry")  
+                for container in containers:
+                    company_name = container.find("div", class_="heartbeat-card_company-name")  
                     company_name = company_name.text.strip() if company_name else "N/A"
                     data.append({
                         "Company Name": company_name,
