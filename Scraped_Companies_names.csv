@@ -212,32 +212,21 @@ Minio
 Volta Medical
 Mitek Systems
 Abridge
-Adept
 Anduril Industries
-Anthropic
-Anyscale
-AssemblyAI
 Baseten
 Cerebras Systems
-Character.AI
 Cleanlab
 Codeium
-Cohere
 Cradle
-Cresta
 Databricks
 DeepL
-ElevenLabs
 Figure AI
 Glean
 Harvey
 Hebbia
-Hugging Face
 Insitro
-Kumo.AI
 LangChain
 Leonardo.AI
-Midjourney
 Mistral AI
 Notion
 OpenAI
@@ -245,36 +234,28 @@ Owkin
 Perplexity
 Photoroom
 Pika
-Pinecone
 Replicate
 Rosebud AI
 Runway
 Sana
 Scale AI
 Sierra
-Synthesia
-Together AI
-Tome
 Tractian
 Unstructured
 Vannevar Labs
-Waabi
 Weaviate
-Writer
 Alibaba Cloud
 DataRobot
 Google
-Hugging Face
 H2O.ai
 Rasa
-Replicate
 ActiveCampaign
 ClickUp
 Freshworks
 HubSpot
 monday.com
 Pipedrive
-"Salesforce, Inc."
+Salesforce, Inc.
 Zoho Corporation
 Anomali
 CUJO AI
@@ -289,7 +270,7 @@ IBM (International Business Machines Corporation)
 Qlik
 Sisense
 Splunk
-"ThoughtSpot, Inc"
+ThoughtSpot, Inc
 Ataccama
 Informatica
 Oracle
@@ -304,7 +285,6 @@ Microsoft
 MicroStrategy
 MonkeyLearn
 Amazon
-Databricks
 OpenText
 Rubrik
 Snowflake
@@ -326,7 +306,6 @@ Siemens
 Via Science
 Xanadu
 AIBrain
-OpenAI
 SoundHound
 Tencent
 Cleo
@@ -342,7 +321,6 @@ Tempus Labs
 AVEVA
 Bright Machines
 Dataiku
-DataRobot
 DataToBiz
 Domino Data Lab
 Graphcore
@@ -354,25 +332,12 @@ Diligent Robotics
 Honeybee Robotics
 iRobot
 Skydio
-"AEye, Inc."
-Anduril Industries
+AEye, Inc.
 Nuro
 Pony.ai
 Tesla
 Waymo
 Zoox
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
 N/A
 Agora
 Momenta
@@ -414,7 +379,6 @@ Synapse Analytics
 Botme
 WideBot
 Anovate.ai
-Convertedin
 BlinkApp
 Qme Solutions
 DevisionX
@@ -498,125 +462,6 @@ Ubenwa Health
 Vitruvian MD
 Chemotronix
 Arone Energy
-GotBot
-Melio AI
-Clevva
-Karr Dynamics
-Zindi
-Xineoh
-DataProphet
-Ashanti AI
-Eden AI
-Isazi
-LARCAI
-Cortex Logic
-BotZA
-Lelapa AI
-Aerobotics
-Praelexis
-Re-Basket
-Innohealth Technologies
-UTU Technologies
-Sama AI
-AIfluence
-IoT.nxt
-Amini
-Synnefa
-Neural Labs Africa
-eBanqo
-AiCopyX
-Moosbu
-Intron Health
-ImaliPay
-Edves
-Synapse Analytics
-Botme
-WideBot
-Anovate.ai
-Convertedin
-BlinkApp
-Qme Solutions
-DevisionX
-Weelo
-Talents Arena
-VAIS
-MerQ
-Sprints
-DataSphera
-NextAV
-DeepAI
-Business & AI
-InstaDeep
-WaterSec
-AquaDeep
-Bareconnect
-CYST
-Dataware
-Nokwary Technologies
-DataPathology
-Neurotech Africa
-Agripoa
-CAYTU
-Lengo AI
-FoondaMate
-CoaChess
-Khalmax Robotics
-M-Shule
-MedSol AI
-hearX Group
-IndyGeneUS AI
-Afya Rekod
-RxAll
-10mg Pharma
-Proteinea
-Rology
-Intixel
-Neurologs
-Yemaachi Biotech
-Chestify AI Labs
-Deep Echo
-Elsa Health
-Afya Intellgience
-IvyGene Labs
-ATLAN Space
-Systems One
-Coradash
-AT Instruments
-Envisionit Deep AI
-Ubenwa Health
-Vitruvian MD
-Chemotronix
-Arone Energy
-Kobo360
-LIVE FR8
-Butlers POS+ Logic
-Yobante Express
-Qik Truck
-Creditais
-PesaKit
-Jamborow
-Nomba
-KiaKia
-BrandDrive
-Aibanc
-Finnova FinancialTechnology
-A-Trader
-Lebfay Technology
-Fin
-Apollo Agriculture
-Egrobots
-KaraAgro AI
-DeepLeaf
-Jaguza Tech
-aiScarecrow Technologies
-CLINICAGRO
-RoboCare
-Peslac
-MyCover.ai
-Tautona.ai
-Pineapple
-Curacel
-Click2Sure
 Debut Infotech
 Markovate
 SoloWay Technologies
@@ -652,13 +497,6 @@ TTT Studios
 Excellent WebWorld
 WebClues Infotech
 ELEKS
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
 MagmaLabs
 Jellyfish Technologies
 Seasia Infotech
@@ -677,17 +515,9 @@ Comfygen Private Limited
 Shiv Technolabs Pvt. Ltd.
 BitsWits
 *instinctools
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
 Fingent
 Andersen
 ValueCoders
-Speridian Technologies
 Bettoblock
 Beyond Eris Solutions
 Smart Chain Technology
@@ -719,40 +549,19 @@ AlphaCodr Technologies LLC
 Evotik
 DigiExpo
 WDCS Technology UAE
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-XillenTech
 Engro Technologies
 Apptunix
 Cygnet.One
 VentureDive
 Appikr Labs
 Usetech
-Owebest Technologies
 Damco Solutions
 Innosoft Group
 Binmile Technologies
-WebClues Infotech
 Sunmait Technologies
-BitsWits
 SCD Company
 X-Byte Enterprise Solutions
-Zazz
-Seasia Infotech
-Comfygen Private Limited
 SoftTeco
 M TECHUB LLc
 ilink
 Expert App Devs
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
