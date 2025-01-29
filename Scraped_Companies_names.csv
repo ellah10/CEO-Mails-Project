@@ -1,567 +1,758 @@
-Company Name
-Anthropic
-CoreWeave
-Hugging Face
-Shield AI
-Character.AI
-Writer
-Runway ML
-Cohere
-Typeface
-Pinecone
-Presight.ai
-Inworld AI
-Imbue
-Pryon
-Together AI
-Adept
-ElevenLabs
-Synthesia
-Unlearn.AI
-AI 21
-Tome
-Helsing
-Captions
-Raspberry Pi
-Axios HQ
-Mechanical Orch...
-Rebellions
-tinyeinstein
-tinyEmail
-OP3N
-Uzum
-Carbyne
-Celestial AI
-Peroptyx
-Helm.ai
-Stability AI
-Pano
-Weka.IO
-Hayden AI
-Cresta
-AiDash
-Anyscale
-Jasper
-Streamlit
-Kumo.AI
-Colossyan
-AssemblyAI
-Primer AI
-Spot AI
-Eatron Technolo...
-Altana Trade
-Fathom Health
-Metropolis
-Snorkel AI
-Personal.ai
-Aisera
-MindsDB
-OfferFit
-Axion Ray
-Lexion
-Labviva
-Document Crunch
-Bioz
-Inbenta Technol...
-A-Alpha Bio
-Causaly
-Vital
-Private AI
-Ambient.ai
-Fetch.AI
-OpenEnvoy
-Evinced
-snappt
-Wayve
-GGWP
-Aerones
-SpotHopper
-Rain Neuromorph...
-Genesis Therape...
-Pachama
-Oxbotica
-Ushur
-Prescient AI
-Cyted
-ALICE Technolog...
-DigitalOwl
-Ambi Robotics
-Adarga
-Miovision
-Activeloop
-DeepCure
-BetterYou
-Docyt
-Constructor.io
-Gridware
-VIZIT
-NLX
-Diveplane Corpo...
-quadric.io
-Continuum Indus...
-Modern Business...
-Papercup
-Fairbanc
-PrecisionLife
-Cydar Medical
-NoTraffic
-Onebrief
-Beacon Biosigna...
-RadAI
-Ecopia
-AZmed
-Algo
-Legalsifter
-Kontakt.io
-Citylitics
-WhyLabs
-Insite AI
-Limbic
-Emi Labs
-Zilliz
-Hyro
-Writesonic
-Voda.AI
-Convertedin
-Respondology
-BLP Digital AG
-Abacus AI
-Robust Intellig...
-Aleph Alpha
-CloudNC
-Sofy AI
-Beehive AI
-Grapevine AI
-Parloa
-TrusTrace
-DataDome
-Expedock
-Deep Render
-Qualsights
-Waabi
-Concentric
-Pactum
-care.ai
-Voiceflow
-GameOn
-Hotelmize
-Rezolve.AI
-Arize AI
-Navina Health
-EnsoData
-HowNow
-Upstage
-Gero
-Cricket.com
-Emitrr
-Avelios
-InpharmD
-Daivergent
-Everest Labs
-Duel Tech
-Riverlane
-Globaleur
-MassRobotics We...
-Bee Partners
-CarePredict
-Jiminny
-D-ID
-Aether Biomedic...
-Kite
-Anagenex
-Musixmatch
-Morpheus Space
-JITx
-Robin AI
-Kavida.ai
-Optalitix
-FrontM
-frame.ai
-CalypsoAI
-Soundtrack Your...
-aiXplain
-iLoF - Intellig...
-Tabnine
-Getvisibility
-Exer.ai
-Cytora
-Latent AI
-RAI
-Waste Robotics
-Multilingual AI...
-PROVEN
-Invisible AI
-deepc
-Nabla Health
-ByteCorp
-Carbonated
-United Robots
-Secondmind
-KernalBiologics
-Kloudspot
-Noble.AI
-Golden
-Bond.ai
-Fundraise Up
-alcemy
-Journi - Smart ...
-Midjourney
-OCELL
-Ekkono Solution...
-Minio
-Volta Medical
-Mitek Systems
-Abridge
-Anduril Industries
-Baseten
-Cerebras Systems
-Cleanlab
-Codeium
-Cradle
-Databricks
-DeepL
-Figure AI
-Glean
-Harvey
-Hebbia
-Insitro
-LangChain
-Leonardo.AI
-Mistral AI
-Notion
-OpenAI
-Owkin
-Perplexity
-Photoroom
-Pika
-Replicate
-Rosebud AI
-Runway
-Sana
-Scale AI
-Sierra
-Tractian
-Unstructured
-Vannevar Labs
-Weaviate
-Alibaba Cloud
-DataRobot
-Google
-H2O.ai
-Rasa
-ActiveCampaign
-ClickUp
-Freshworks
-HubSpot
-monday.com
-Pipedrive
-Salesforce, Inc.
-Zoho Corporation
-Anomali
-CUJO AI
-Cybereason
-Darktrace
-Deep Instinct
-Proofpoint
-SentinelOne
-Tessian
-Vectra AI
-IBM (International Business Machines Corporation)
-Qlik
-Sisense
-Splunk
-ThoughtSpot, Inc
-Ataccama
-Informatica
-Oracle
-Precisely
-SAP
-SAS
-AIMLEAP Outsource BigData
-Akkio
-Analytics8
-Domo
-Microsoft
-MicroStrategy
-MonkeyLearn
-Amazon
-OpenText
-Rubrik
-Snowflake
-Teradata
-AlphaSense
-Bizzabo
-C3 AI
-Icertis
-People.ai
-Phrasee
-The Trade Desk
-Brainly
-Carnegie Learning
-CENTURY Tech
-Harbinger Group
-AutoGrid
-GE Vernova
-Siemens
-Via Science
-Xanadu
-AIBrain
-SoundHound
-Tencent
-Cleo
-HighRadius
-Numerai
-Signifyd
-Upstart
-Atomwise
-Enlitic
-PathAI
-Suki AI
-Tempus Labs
-AVEVA
-Bright Machines
-Dataiku
-DataToBiz
-Domino Data Lab
-Graphcore
-N5 Sensors
-SenseTime
-Agility Robotics
-Boston Dynamics
-Diligent Robotics
-Honeybee Robotics
-iRobot
-Skydio
-AEye, Inc.
-Nuro
-Pony.ai
-Tesla
-Waymo
-Zoox
-N/A
-Agora
-Momenta
-Lynk
-Zhipu.ai
-AInnovation
-GotBot
-Melio AI
-Clevva
-Karr Dynamics
-Zindi
-Xineoh
-DataProphet
-Ashanti AI
-Eden AI
-Isazi
-LARCAI
-Cortex Logic
-BotZA
-Lelapa AI
-Aerobotics
-Praelexis
-Re-Basket
-Innohealth Technologies
-UTU Technologies
-Sama AI
-AIfluence
-IoT.nxt
-Amini
-Synnefa
-Neural Labs Africa
-eBanqo
-AiCopyX
-Moosbu
-Intron Health
-ImaliPay
-Edves
-Synapse Analytics
-Botme
-WideBot
-Anovate.ai
-BlinkApp
-Qme Solutions
-DevisionX
-Weelo
-Talents Arena
-VAIS
-MerQ
-Sprints
-DataSphera
-NextAV
-DeepAI
-Business & AI
-InstaDeep
-WaterSec
-AquaDeep
-Bareconnect
-CYST
-Dataware
-Nokwary Technologies
-DataPathology
-Neurotech Africa
-Agripoa
-CAYTU
-Lengo AI
-FoondaMate
-CoaChess
-Khalmax Robotics
-M-Shule
-Creditais
-PesaKit
-Jamborow
-Nomba
-KiaKia
-BrandDrive
-Aibanc
-Finnova FinancialTechnology
-A-Trader
-Lebfay Technology
-Fin
-Apollo Agriculture
-Peslac
-MyCover.ai
-Tautona.ai
-Pineapple
-Curacel
-Click2Sure
-Egrobots
-KaraAgro AI
-DeepLeaf
-Jaguza Tech
-aiScarecrow Technologies
-CLINICAGRO
-RoboCare
-MedSol AI
-hearX Group
-IndyGeneUS AI
-Afya Rekod
-RxAll
-10mg Pharma
-Proteinea
-Rology
-Intixel
-Neurologs
-Yemaachi Biotech
-Chestify AI Labs
-Deep Echo
-Elsa Health
-Afya Intellgience
-IvyGene Labs
-Kobo360
-LIVE FR8
-Butlers POS+ Logic
-Yobante Express
-Qik Truck
-ATLAN Space
-Systems One
-Coradash
-AT Instruments
-Envisionit Deep AI
-Ubenwa Health
-Vitruvian MD
-Chemotronix
-Arone Energy
-Debut Infotech
-Markovate
-SoloWay Technologies
-Integrio Systems
-Discretelogix
-ThirdEye Data
-Trigma
-Umano Logic
-Speridian Technologies
-Technoyuga Soft Pvt. Limited
-Iotasol
-Master of Code Global
-Cognitive IT Solutions
-SkyTrut Inc.
-Vizio Consulting
-Invision solution
-Soft Tech Cube
-iQlance App Development Canada
-Hashthink Technologies
-Intellivizz USA LLC
-GrapesTech Solutions Pvt. Ltd.
-DTskill
-Primathon Technology
-KT Informatik
-Iron Devs Digital
-Incerro
-Kody Technolab
-CJ Technologies
-Indca Services Limited
-Webelight Solutions Pvt. Ltd.
-XillenTech
-TTT Studios
-Excellent WebWorld
-WebClues Infotech
-ELEKS
-MagmaLabs
-Jellyfish Technologies
-Seasia Infotech
-CIGNEX
-Owebest Technologies
-Novumlogic Technologies
-MoogleLabs
-Gsquare Web Technologies
-Green Apex
-Devstree IT Services Pvt. Ltd.
-Lumenta Digital Icn.
-CMARIX
-Netset Software Solutions
-Zazz
-Comfygen Private Limited
-Shiv Technolabs Pvt. Ltd.
-BitsWits
-*instinctools
-Fingent
-Andersen
-ValueCoders
-Bettoblock
-Beyond Eris Solutions
-Smart Chain Technology
-Cubix
-Interexy
-Blocktunix
-Maxwell Global Software
-iGenerate
-Innosoft UAE
-Dart Digital Agency
-Arcana Info
-ScienceSoft
-REACH 3C
-Datametriks Analytics
-QuantumFind AI
-Devsinc
-softnsolve
-Montenegro Systems
-Growth Anchors
-Qubist.ae
-SEO Company Pro
-appscreated.com
-Syscort Technologies
-Fractal Digital
-Dev Technosys Dubai
-GALTech Technologies Pvt Ltd
-Tessafold Inc
-AlphaCodr Technologies LLC
-Evotik
-DigiExpo
-WDCS Technology UAE
-Engro Technologies
-Apptunix
-Cygnet.One
-VentureDive
-Appikr Labs
-Usetech
-Damco Solutions
-Innosoft Group
-Binmile Technologies
-Sunmait Technologies
-SCD Company
-X-Byte Enterprise Solutions
-SoftTeco
-M TECHUB LLc
-ilink
-Expert App Devs
+Company Name,ceo_name
+Anthropic,Jack Clark
+CoreWeave,Brannin McBee
+Hugging Face,Clement Delangu...
+Shield AI,Ryan Tseng
+Character.AI,-
+Writer,Waseem Alshikh
+Runway ML,Anastasis Germa...
+Cohere,Ivan Zhang
+Typeface,Nipun Dave
+Pinecone,Edo Liberty
+Presight.ai,-
+Inworld AI,Ilya Gelfenbeyn
+Imbue,Kanjun Qiu
+Pryon,Igor Jablokov
+Together AI,Chris RÃ©
+Adept,Fred Bertsch
+ElevenLabs,Mati Staniszews...
+Synthesia,Steffen Tjerril...
+Unlearn.AI,Aaron Smith
+AI 21,Leeor Moses-Vor...
+Tome,Matthew Smith
+Helsing,Gundbert Scherf
+Captions,Mara Dilts
+Raspberry Pi,Jack Willis
+Axios HQ,Roy Schwartz
+Mechanical Orch...,Roque Versace
+Rebellions,Jinwook Oh
+tinyeinstein,-
+tinyEmail,-
+OP3N,-
+Uzum,-
+Carbyne,Alex Dizengof
+Celestial AI,Philip Winterbo...
+Peroptyx,Paul McBride
+Helm.ai,Vlad Voroninski
+Stability AI,Simon Stevens
+Pano,Sonia Kastner
+Weka.IO,Liran Zvibel
+Hayden AI,Vaibhav Ghadiok
+Cresta,Alex Cramer
+AiDash,Abhishek Singh
+Anyscale,Robert Nishihar...
+Jasper,Corey Kelly
+Streamlit,Adrien Treuille
+Kumo.AI,Jure Leskovec
+Colossyan,Dominik Kovacs
+AssemblyAI,Dylan Fox
+Primer AI,Alyssa Haslett
+Spot AI,Rish Gupta
+Eatron Technolo...,Umut Genc
+Altana Trade,Raphael Tehrani...
+Fathom Health,Andrew Lockhart
+Metropolis,Peter Fisher
+Snorkel AI,Alexander Ratne...
+Personal.ai,Suman Kanuganti
+Aisera,Muddu Sudhakar
+MindsDB,Jorge Torres
+OfferFit,Victor Kostyuk
+Axion Ray,Daniel First
+Lexion,James Baird
+Labviva,Chris Lope
+Document Crunch,Joshua Levy
+Bioz,Daniel Levitt
+Inbenta Technol...,Melissa Solis
+A-Alpha Bio,David Younger
+Causaly,Yiannis Kiachop...
+Vital,Aaron Patzer
+Private AI,Patricia Thaine
+Ambient.ai,Vikesh Khanna
+Fetch.AI,Humayun Sheikh
+OpenEnvoy,Matthew Tillman
+Evinced,Navin Thadani
+snappt,Evan Heuser
+Wayve,Alex Kendall
+GGWP,Dennis Fong
+Aerones,Janis Putrams
+SpotHopper,Niko Ivanovic
+Rain Neuromorph...,Juan Nino
+Genesis Therape...,Evan Feinberg
+Pachama,Diego Gil
+Oxbotica,Marta Ostroumof...
+Ushur,Henry Peter
+Prescient AI,Michael True
+Cyted,Rebecca Fitzger...
+ALICE Technolog...,Rene Morkos
+DigitalOwl,Yuval Man
+Ambi Robotics,Jeff Mahler
+Adarga,Becky Haworth
+Miovision,Tony Brijpaul
+Activeloop,Davit Buniatyan
+DeepCure,Michal Yona
+BetterYou,Sean Higgins
+Docyt,Baglan Rhymes
+Constructor.io,Michelle Swager
+Gridware,Tim Barat
+VIZIT,Jehan Hamedi
+NLX,Vlad Papancea
+Diveplane Corpo...,Mike Resnick
+quadric.io,Veerbhan Kheter...
+Continuum Indus...,Emil Hansen
+Modern Business...,Craig Wisneski
+Papercup,Jesse Shemen
+Fairbanc,Mir Haque
+PrecisionLife,Steve Gardner
+Cydar Medical,Rob Hague
+NoTraffic,Tal Kreisler
+Onebrief,Rafa Pereira
+Beacon Biosigna...,Syd Cash
+RadAI,Doktor Gurson
+Ecopia,-
+AZmed,Benjamin Mellou...
+Algo,Amjad Hussain
+Legalsifter,Kevin Miller
+Kontakt.io,Philipp Gilsa
+Citylitics,Mark Richards
+WhyLabs,Sam Gracie
+Insite AI,Shaveer Mirpuri
+Limbic,Ross Harper
+Emi Labs,Mateo Cavasotto
+Zilliz,Charles Xie
+Hyro,Rom Cohen
+Writesonic,-
+Voda.AI,Jim Fitchett
+Convertedin,-
+Respondology,Erik Swain
+BLP Digital AG,-
+Abacus AI,Arvind Sundarar...
+Robust Intellig...,Kojin Oshiba
+Aleph Alpha,-
+CloudNC,Theo Saville
+Sofy AI,Syed Hamid
+Beehive AI,Shai Deljo
+Grapevine AI,Aniket Shah
+Parloa,Malte Kosub
+TrusTrace,Hrishikesh Raja...
+DataDome,Fabien Grenier
+Expedock,King Dy
+Deep Render,Arsalan Zafar
+Qualsights,Nihal Advani
+Waabi,Frits Bigham
+Concentric,Shankar Subrama...
+Pactum,Kristjan Korjus
+care.ai,Patrick McIntyr...
+Voiceflow,Michael Hood
+GameOn,Alex Beckman
+Hotelmize,Omry Litvak
+Rezolve.AI,Manish Sharma
+Arize AI,Beau Moya
+Navina Health,Maor Adlin
+EnsoData,Sam Rusk
+HowNow,Ashish Kumar
+Upstage,Lucy Park
+Gero,Peter Fedichev
+Cricket.com,-
+Emitrr,Pulkit Gambhir
+Avelios,-
+InpharmD,-
+Daivergent,Byran Dai
+Everest Labs,Apurba Pradhan
+Duel Tech,Naio Tsarouchis
+Riverlane,Samin Ishtiaq
+Globaleur,Grace Guhanwang
+MassRobotics We...,Joyce Sidopoulo...
+Bee Partners,Michael Berolzh...
+CarePredict,Maryellen Abreu
+Jiminny,Tom Lavery
+D-ID,Eliran Kuta
+Aether Biomedic...,Sarra Mullen
+Kite,-
+Anagenex,Adrian Schreyer
+Musixmatch,Rio Caraeff
+Morpheus Space,Daniel Bock
+JITx,Patrick Li
+Robin AI,James Clough
+Kavida.ai,Aran Fernando
+Optalitix,Alex Gurr
+FrontM,Kiran Venkatesh
+frame.ai,Jesse St. Charl...
+CalypsoAI,Neil Serebryany
+Soundtrack Your...,Ola Sars
+aiXplain,Hassan Sawaf
+iLoF - Intellig...,Mariana Saturno
+Tabnine,Naomi Lifshitz
+Getvisibility,Mark Brosnan
+Exer.ai,Zaw Thet
+Cytora,Richard Hartley
+Latent AI,Sek Chai
+RAI,Var Shankar
+Waste Robotics,Eric Camirand
+Multilingual AI...,Curtis Matlock
+PROVEN,Ming Zhao
+Invisible AI,Eric Danziger
+deepc,Paul Mayer
+Nabla Health,Alex Lebrun
+ByteCorp,-
+Carbonated,Kolbe Launchbau...
+United Robots,Dariusz Mankows...
+Secondmind,Gary Brotman
+KernalBiologics,Burak YILMAZ
+Kloudspot,Ravi Akireddy
+Noble.AI,Matthew Loomis
+Golden,Jude Gomila
+Bond.ai,Madhavi Kulkarn...
+Fundraise Up,Peter Byrnes
+alcemy,Leopold Spenner
+Journi - Smart ...,Nina Ent
+Midjourney,Nadia Ali
+OCELL,-
+Ekkono Solution...,Rikard KÃ¶nig
+Minio,Ugur Tigli
+Volta Medical,John Slump
+Mitek Systems,Max Carnecchia
+Abridge,
+Adept,
+Anduril Industries,
+Anthropic,
+Anyscale,
+AssemblyAI,
+Baseten,
+Cerebras Systems,
+Character.AI,
+Cleanlab,
+Codeium,
+Cohere,
+Cradle,
+Cresta,
+Databricks,
+DeepL,
+ElevenLabs,
+Figure AI,
+Glean,
+Harvey,
+Hebbia,
+Hugging Face,
+Insitro,
+Kumo.AI,
+LangChain,
+Leonardo.AI,
+Midjourney,
+Mistral AI,
+Notion,
+OpenAI,
+Owkin,
+Perplexity,
+Photoroom,
+Pika,
+Pinecone,
+Replicate,
+Rosebud AI,
+Runway,
+Sana,
+Scale AI,
+Sierra,
+Synthesia,
+Together AI,
+Tome,
+Tractian,
+Unstructured,
+Vannevar Labs,
+Waabi,
+Weaviate,
+Writer,
+Alibaba Cloud,
+DataRobot,
+Google,
+Hugging Face,
+H2O.ai,
+Rasa,
+Replicate,
+ActiveCampaign,
+ClickUp,
+Freshworks,
+HubSpot,
+monday.com,
+Pipedrive,
+"Salesforce, Inc.",
+Zoho Corporation,
+Anomali,
+CUJO AI,
+Cybereason,
+Darktrace,
+Deep Instinct,
+Proofpoint,
+SentinelOne,
+Tessian,
+Vectra AI,
+IBM (International Business Machines Corporation),
+Qlik,
+Sisense,
+Splunk,
+"ThoughtSpot, Inc",
+Ataccama,
+Informatica,
+Oracle,
+Precisely,
+SAP,
+SAS,
+AIMLEAP Outsource BigData,
+Akkio,
+Analytics8,
+Domo,
+Microsoft,
+MicroStrategy,
+MonkeyLearn,
+Amazon,
+Databricks,
+OpenText,
+Rubrik,
+Snowflake,
+Teradata,
+AlphaSense,
+Bizzabo,
+C3 AI,
+Icertis,
+People.ai,
+Phrasee,
+The Trade Desk,
+Brainly,
+Carnegie Learning,
+CENTURY Tech,
+Harbinger Group,
+AutoGrid,
+GE Vernova,
+Siemens,
+Via Science,
+Xanadu,
+AIBrain,
+OpenAI,
+SoundHound,
+Tencent,
+Cleo,
+HighRadius,
+Numerai,
+Signifyd,
+Upstart,
+Atomwise,
+Enlitic,
+PathAI,
+Suki AI,
+Tempus Labs,
+AVEVA,
+Bright Machines,
+Dataiku,
+DataRobot,
+DataToBiz,
+Domino Data Lab,
+Graphcore,
+N5 Sensors,
+SenseTime,
+Agility Robotics,
+Boston Dynamics,
+Diligent Robotics,
+Honeybee Robotics,
+iRobot,
+Skydio,
+"AEye, Inc.",
+Anduril Industries,
+Nuro,
+Pony.ai,
+Tesla,
+Waymo,
+Zoox,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+Agora,
+Momenta,
+Lynk,
+Zhipu.ai,
+AInnovation,
+GotBot,
+Melio AI,
+Clevva,
+Karr Dynamics,
+Zindi,
+Xineoh,
+DataProphet,
+Ashanti AI,
+Eden AI,
+Isazi,
+LARCAI,
+Cortex Logic,
+BotZA,
+Lelapa AI,
+Aerobotics,
+Praelexis,
+Re-Basket,
+Innohealth Technologies,
+UTU Technologies,
+Sama AI,
+AIfluence,
+IoT.nxt,
+Amini,
+Synnefa,
+Neural Labs Africa,
+eBanqo,
+AiCopyX,
+Moosbu,
+Intron Health,
+ImaliPay,
+Edves,
+Synapse Analytics,
+Botme,
+WideBot,
+Anovate.ai,
+Convertedin,
+BlinkApp,
+Qme Solutions,
+DevisionX,
+Weelo,
+Talents Arena,
+VAIS,
+MerQ,
+Sprints,
+DataSphera,
+NextAV,
+DeepAI,
+Business & AI,
+InstaDeep,
+WaterSec,
+AquaDeep,
+Bareconnect,
+CYST,
+Dataware,
+Nokwary Technologies,
+DataPathology,
+Neurotech Africa,
+Agripoa,
+CAYTU,
+Lengo AI,
+FoondaMate,
+CoaChess,
+Khalmax Robotics,
+M-Shule,
+Creditais,
+PesaKit,
+Jamborow,
+Nomba,
+KiaKia,
+BrandDrive,
+Aibanc,
+Finnova FinancialTechnology,
+A-Trader,
+Lebfay Technology,
+Fin,
+Apollo Agriculture,
+Peslac,
+MyCover.ai,
+Tautona.ai,
+Pineapple,
+Curacel,
+Click2Sure,
+Egrobots,
+KaraAgro AI,
+DeepLeaf,
+Jaguza Tech,
+aiScarecrow Technologies,
+CLINICAGRO,
+RoboCare,
+MedSol AI,
+hearX Group,
+IndyGeneUS AI,
+Afya Rekod,
+RxAll,
+10mg Pharma,
+Proteinea,
+Rology,
+Intixel,
+Neurologs,
+Yemaachi Biotech,
+Chestify AI Labs,
+Deep Echo,
+Elsa Health,
+Afya Intellgience,
+IvyGene Labs,
+Kobo360,
+LIVE FR8,
+Butlers POS+ Logic,
+Yobante Express,
+Qik Truck,
+ATLAN Space,
+Systems One,
+Coradash,
+AT Instruments,
+Envisionit Deep AI,
+Ubenwa Health,
+Vitruvian MD,
+Chemotronix,
+Arone Energy,
+GotBot,
+Melio AI,
+Clevva,
+Karr Dynamics,
+Zindi,
+Xineoh,
+DataProphet,
+Ashanti AI,
+Eden AI,
+Isazi,
+LARCAI,
+Cortex Logic,
+BotZA,
+Lelapa AI,
+Aerobotics,
+Praelexis,
+Re-Basket,
+Innohealth Technologies,
+UTU Technologies,
+Sama AI,
+AIfluence,
+IoT.nxt,
+Amini,
+Synnefa,
+Neural Labs Africa,
+eBanqo,
+AiCopyX,
+Moosbu,
+Intron Health,
+ImaliPay,
+Edves,
+Synapse Analytics,
+Botme,
+WideBot,
+Anovate.ai,
+Convertedin,
+BlinkApp,
+Qme Solutions,
+DevisionX,
+Weelo,
+Talents Arena,
+VAIS,
+MerQ,
+Sprints,
+DataSphera,
+NextAV,
+DeepAI,
+Business & AI,
+InstaDeep,
+WaterSec,
+AquaDeep,
+Bareconnect,
+CYST,
+Dataware,
+Nokwary Technologies,
+DataPathology,
+Neurotech Africa,
+Agripoa,
+CAYTU,
+Lengo AI,
+FoondaMate,
+CoaChess,
+Khalmax Robotics,
+M-Shule,
+MedSol AI,
+hearX Group,
+IndyGeneUS AI,
+Afya Rekod,
+RxAll,
+10mg Pharma,
+Proteinea,
+Rology,
+Intixel,
+Neurologs,
+Yemaachi Biotech,
+Chestify AI Labs,
+Deep Echo,
+Elsa Health,
+Afya Intellgience,
+IvyGene Labs,
+ATLAN Space,
+Systems One,
+Coradash,
+AT Instruments,
+Envisionit Deep AI,
+Ubenwa Health,
+Vitruvian MD,
+Chemotronix,
+Arone Energy,
+Kobo360,
+LIVE FR8,
+Butlers POS+ Logic,
+Yobante Express,
+Qik Truck,
+Creditais,
+PesaKit,
+Jamborow,
+Nomba,
+KiaKia,
+BrandDrive,
+Aibanc,
+Finnova FinancialTechnology,
+A-Trader,
+Lebfay Technology,
+Fin,
+Apollo Agriculture,
+Egrobots,
+KaraAgro AI,
+DeepLeaf,
+Jaguza Tech,
+aiScarecrow Technologies,
+CLINICAGRO,
+RoboCare,
+Peslac,
+MyCover.ai,
+Tautona.ai,
+Pineapple,
+Curacel,
+Click2Sure,
+Debut Infotech,
+Markovate,
+SoloWay Technologies,
+Integrio Systems,
+Discretelogix,
+ThirdEye Data,
+Trigma,
+Umano Logic,
+Speridian Technologies,
+Technoyuga Soft Pvt. Limited,
+Iotasol,
+Master of Code Global,
+Cognitive IT Solutions,
+SkyTrut Inc.,
+Vizio Consulting,
+Invision solution,
+Soft Tech Cube,
+iQlance App Development Canada,
+Hashthink Technologies,
+Intellivizz USA LLC,
+GrapesTech Solutions Pvt. Ltd.,
+DTskill,
+Primathon Technology,
+KT Informatik,
+Iron Devs Digital,
+Incerro,
+Kody Technolab,
+CJ Technologies,
+Indca Services Limited,
+Webelight Solutions Pvt. Ltd.,
+XillenTech,
+TTT Studios,
+Excellent WebWorld,
+WebClues Infotech,
+ELEKS,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+MagmaLabs,
+Jellyfish Technologies,
+Seasia Infotech,
+CIGNEX,
+Owebest Technologies,
+Novumlogic Technologies,
+MoogleLabs,
+Gsquare Web Technologies,
+Green Apex,
+Devstree IT Services Pvt. Ltd.,
+Lumenta Digital Icn.,
+CMARIX,
+Netset Software Solutions,
+Zazz,
+Comfygen Private Limited,
+Shiv Technolabs Pvt. Ltd.,
+BitsWits,
+*instinctools,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+Fingent,
+Andersen,
+ValueCoders,
+Speridian Technologies,
+Bettoblock,
+Beyond Eris Solutions,
+Smart Chain Technology,
+Cubix,
+Interexy,
+Blocktunix,
+Maxwell Global Software,
+iGenerate,
+Innosoft UAE,
+Dart Digital Agency,
+Arcana Info,
+ScienceSoft,
+REACH 3C,
+Datametriks Analytics,
+QuantumFind AI,
+Devsinc,
+softnsolve,
+Montenegro Systems,
+Growth Anchors,
+Qubist.ae,
+SEO Company Pro,
+appscreated.com,
+Syscort Technologies,
+Fractal Digital,
+Dev Technosys Dubai,
+GALTech Technologies Pvt Ltd,
+Tessafold Inc,
+AlphaCodr Technologies LLC,
+Evotik,
+DigiExpo,
+WDCS Technology UAE,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+XillenTech,
+Engro Technologies,
+Apptunix,
+Cygnet.One,
+VentureDive,
+Appikr Labs,
+Usetech,
+Owebest Technologies,
+Damco Solutions,
+Innosoft Group,
+Binmile Technologies,
+WebClues Infotech,
+Sunmait Technologies,
+BitsWits,
+SCD Company,
+X-Byte Enterprise Solutions,
+Zazz,
+Seasia Infotech,
+Comfygen Private Limited,
+SoftTeco,
+M TECHUB LLc,
+ilink,
+Expert App Devs,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,
+N/A,

@@ -39,8 +39,10 @@ for url in urls:
                 columns = row.find_all("td")
                 if columns:
                     company_name = columns[1].text.strip() if len(columns) > 1 else "N/A"
+                    ceo_name = columns[9].text.strip() if len(columns) > 1 else "N/A"
                     data.append({
                         "Company Name": company_name,
+                        "ceo_name": ceo_name,
                     })
         else:
             print("No table found, looking for other structures...")
