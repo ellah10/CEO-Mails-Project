@@ -1,0 +1,150 @@
+Abridge - Minal Ghosh
+Adept - David Luan
+Anduril Industries - Brian Schimpf
+Anthropic - Dario Amodei
+Anyscale - Robert Nishihara
+AssemblyAI - Samanyou Garg
+Baseten - Arvind Joglekar
+Cerebras Systems - Andrew Feldman
+Character.AI - Noam Shazeer and Daniel De Freitas (Co-CEOs)
+Cleanlab - Jacob Yoon
+Codeium - Nikhil Gaur
+Cohere - Aidan Gomez
+Cradle - Daniel Guberman
+Cresta - Krishna Gupta
+Databricks - Ali Ghodsi
+DeepL - Jaroslaw Kutylowski
+ElevenLabs - Piotr Sławiński
+Figure AI - Christopher H. D’Angelo
+Glean - Arvind Jain
+Harvey - No specific information
+Hebbia - Alexey Melikhov
+Hugging Face - Clément Delangue
+Insitro - Sarah Church
+Kumo.AI - Amit Prakash
+LangChain - Harrison Chase
+Leonardo.AI - Information not found
+Midjourney - David Holz
+Mistral AI - Xavier Amatriain
+Notion - Ivan Zhao
+OpenAI - Sam Altman
+Owkin - Thomas Clozel
+Perplexity - Information not found
+Photoroom - Loïc Hennighausen
+Pika - No specific information
+Pinecone - Edo Liberty
+Replicate - Isaac T. McNally
+Rosebud AI - No specific information
+Runway - Cristóbal Valenzuela
+Sana - No specific information
+Scale AI - Alexandr Wang
+Sierra - No specific information
+Synthesia - Victor Riparbelli
+Together AI - No specific information
+Tome - Keith Peiris
+Tractian - Gabriel Oliveira
+Unstructured - Michael B.
+Vannevar Labs - Peter V.
+Waabi - Raquel Urtasun
+Weaviate - No specific information
+Writer - No specific information
+Alibaba Cloud - Hu Xiaoming
+DataRobot - Dan Wright
+Google - Sundar Pichai
+Hugging Face - Clément Delangue (listed earlier)
+H2O.ai - Sri Ambati
+Rasa - Alex Weidauer
+Replicate - Isaac T. McNally (listed earlier)
+ActiveCampaign - Jason VandeBoom
+ClickUp - Zeb Evans
+Freshworks - Girish Mathrubootham
+HubSpot - Yamini Rangan
+monday.com - Roy Mann and Eran Zinman (Co-CEOs)
+Pipedrive - Alar Kokk
+Salesforce, Inc. - Marc Benioff
+Zoho Corporation - Sridhar Vembu
+Anomali - Hugh Njemanze
+CUJO AI - Robert J. Nardelli
+Cybereason - Lior Div
+Darktrace - Poppy Gustafsson
+Deep Instinct - Guy Caspi
+Proofpoint - Gary Steele
+SentinelOne - Tomer Weingarten
+Tessian - Tim Sadler
+Vectra AI - Hitesh Sheth
+IBM (International Business Machines Corporation) - Arvind Krishna
+Qlik - Mike Capone
+Sisense - Amir Orad
+Splunk - Gary Steele
+ThoughtSpot, Inc - Sudheesh Nair
+Ataccama - Michal Kovar
+Informatica - Amit Walia
+Oracle - Safra Catz
+Precisely - Jim Kever
+SAP - Christian Klein
+SAS - Jim Goodnight
+AIMLEAP Outsource BigData - No specific information
+Akkio - Raza Rizvi
+Analytics8 - Mike Souders
+Domo - John Mellor
+Microsoft - Satya Nadella
+MicroStrategy - Michael J. Saylor
+MonkeyLearn - Raul Garza
+Amazon - Andy Jassy
+Databricks - Ali Ghodsi (listed earlier)
+OpenText - Mark Barrenechea
+Rubrik - Bipul Sinha
+Snowflake - Frank Slootman
+Teradata - Steve McMillan
+AlphaSense - Jack Kokko
+Bizzabo - Eran Ben-Shushan
+C3 AI - Tom Siebel
+Icertis - Samir Bodas
+People.ai - Oleg Rogynskyy
+Phrasee - Parry Malm
+The Trade Desk - Jeff Green
+Brainly - Michał Borkowski
+Carnegie Learning - Barry Malkin
+CENTURY Tech - Priya Lakhani
+Harbinger Group - No specific information
+AutoGrid - Dr. Amit Narayan
+GE Vernova - Scott Strazik
+Siemens - Roland Busch
+Via Science - No specific information
+Xanadu - Christian Weedbrook
+AIBrain - No specific information
+OpenAI - Sam Altman (listed earlier)
+SoundHound - James Hom
+Tencent - Ma Huateng
+Cleo - Niall McKinney
+HighRadius - Sashi Narahari
+Numerai - Richard Craib
+Signifyd - Mike Libecki
+Upstart - Dave Girouard
+Atomwise - Abraham Heifets
+Enlitic - Kevin Lyman
+PathAI - Andrew Eye
+Suki AI - Punit Soni
+Tempus Labs - Eric Lefkofsky
+AVEVA - Craig Hayman
+Bright Machines - Amar Hanspal
+Dataiku - Florian Douetteau
+DataRobot - Dan Wright (listed earlier)
+DataToBiz - No specific information
+Domino Data Lab - Nick Elprin
+Graphcore - Nigel Toon
+N5 Sensors - No specific information
+SenseTime - Xu Li
+Agility Robotics - Damion Shelton
+Boston Dynamics - Robert Playter
+Diligent Robotics - Andrea Thomaz
+Honeybee Robotics - No specific information
+iRobot - Colin Angle
+Skydio - Adam Bry
+AEye, Inc. - Blair LaCorte
+Anduril Industries - Brian Schimpf (listed earlier)
+Nuro - Jiajun Zhu
+Pony.ai - James Peng
+Tesla - Elon Musk
+Waymo - Tekedra Mawakana and Dmitri Dolgov (Co-CEOs)
+Zoox - Aicha Evans
