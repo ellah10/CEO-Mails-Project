@@ -40,11 +40,11 @@ for url in urls:
                 if columns:
                     company_name = columns[1].text.strip() if len(columns) > 1 else "N/A"
                     ceo_name = columns[9].text.strip() if len(columns) > 1 else "N/A"
-                    # company_country = columns[3].text.strip() if len(columns) > 1 else "N/A"
+                    company_country = columns[4].text.strip() if len(columns) > 1 else "N/A"
                     data.append({
                         "Company Name": company_name,
                         "ceo_name": ceo_name,
-                        # "company_country": company_country,
+                        "company_country": company_country,
                     })
         else:
             print("No table found, looking for other structures...")
