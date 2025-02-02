@@ -29,9 +29,9 @@ class CeodataSpider(scrapy.Spider):
 
             WebDriverWait(self.driver, 40).until(
                 EC.presence_of_element_located((By.ID, "email"))
-            ).send_keys("wellsarison7@gmail.com")
+            ).send_keys("###")
 
-            self.driver.find_element(By.ID, "password").send_keys("EL$g@Wfh5!k8Zst")
+            self.driver.find_element(By.ID, "password").send_keys("###")
             self.driver.find_element(By.CSS_SELECTOR, "div button").click()
         except Exception as e:
             self.logger.error(f"Login failed: {e}")
