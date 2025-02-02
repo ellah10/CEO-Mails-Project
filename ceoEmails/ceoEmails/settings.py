@@ -19,6 +19,8 @@ NEWSPIDER_MODULE = "ceoEmails.spiders"
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
+#DOWNLOAD_TIMEOUT = 300  # Increase to 300 seconds or more
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
