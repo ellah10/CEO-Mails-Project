@@ -3,7 +3,7 @@
   1 ,CoreWeave                ,USA                  ,Brannin McBee               ,bmcbee@coreweave.com;;;;
   2 ,Hugging Face             ,USA                  ,Clement Delangu...          ,clement@huggingface.co;;;;
   3 ,Shield AI                ,USA                  ,Ryan Tseng                  ,ryan.tseng@shield.ai;;;;
-  4 ,Character.AI             ,USA                  ,                            ,;;Sunita Verma;sunita@character.ai;
+  4 ,Character.AI             ,USA                  ,Sunita Verma                ,;;;sunita@character.ai;
   5 ,Writer                   ,USA                  ,Waseem Alshikh              ,waseem@writer.com;;;;
   6 ,Runway ML                ,USA                  ,Anastasis Germa...          ,anastasis@runwayml.com;;;;
   7 ,Cohere                   ,CAN                  ,Ivan Zhang                  ,ivan@cohere.ai;;;;
@@ -24,7 +24,6 @@
  22 ,Captions                 ,USA                  ,Mara Dilts                  ,mara@captions.ai;;;;
  23 ,Raspberry Pi             ,UK                   ,Jack Willis                 ,jack.willis@raspberrypi.com;;;;
  24 ,Axios HQ                 ,USA                  ,Roy Schwartz                ,roy.schwartz@axioshq.com;;;;
- 25 ,                         ,                     ,                            ,;;;;
  26 ,Mechanical Orch...       ,USA                  ,Roque Versace               ,roque@mechanical-orchard.com;;;;
  27 ,Rebellions               ,South Korea          ,Sunghyun Park               ,sunghyun.park@rebellions.ai;;;;
  28 ,tinyeinstein             ,CAN                  ,Oksana Bazhenova            ,oksana.bazhenova@gmail.com;;;;
@@ -183,7 +182,7 @@
  81 ,aiXplain                 ,USA                  ,Hassan Sawaf                ,hsawaf@aixplain.com;;;;
  82 ,Intelligent Lab on Fiber ,                     ,Luis Valente                ,;;;;
  83 ,Tabnine                  ,Israel               ,Dror Weiss                  ,;;;;
- 84 ,Getvisibility            ,USA                  ,Mark Brosnan                ,mbrosnan@getvisibility.com;;;;
+ 84 ,Getvisibility            ,USA                  ,c             ,mbrosnan@getvisibility.com;;;;
  85 ,Exer.ai                  ,USA                  ,Zaw Thet                    ,zaw@exer.ai;;;;
  86 ,Cytora                   ,UK                   ,Richard Hartley             ,richard.hartley@cytora.com;;;;
  87 ,Latent AI                ,USA                  ,Sek Chai                    ,sek.chai@latentai.com;;;;
