@@ -126,21 +126,20 @@ Nuro - Jiajun Zhu   zhujiajun@gmail.com
 Pony.ai usa James Peng jamespeng@pony.ai
 Waymo - Tekedra Mawakana tekedram@aol.com
 Zoox - Aicha Evans  aicha2evans@yahoo.com
-Agora,Bar Mor,bar@agorareal.com,
-Momenta,,
-Lynk,,
-Zhipu.ai,,
-AInnovation,,
-GotBot,,
+Agora,usa,Bar Mor,bar@agorareal.com,
+Momenta,china,Xudong Cao,xudong@momenta.ai
+Lynk,usa,Tyghe Speidel,tspeidel@lynk.world
+Zhipu.ai,chine,Zhang Peng,
+AInnovation,chine,
+GotBot,south africa,Nick Argyros,nargyros@gmail.com
 Melio AI,,
 Clevva,,
 Karr Dynamics,,
-Zindi,,
+Zindi,south africa,megan@zindi.africa
 Xineoh,,
-DataProphet,,
-Ashanti AI,,
+DataProphet,cape town,Frans Cronje,frans@dataprophet.com
 Eden AI,,
-Isazi,,
+Isazi,south africa,Avi B,avi@isazi.ai
 LARCAI,,
 Cortex Logic,,
 BotZA,,
@@ -205,13 +204,10 @@ Aibanc,,
 Finnova FinancialTechnology,,
 A-Trader,,
 Lebfay Technology,,
-Fin,,
-Apollo Agriculture,,
 Peslac,,
 MyCover.ai,,
 Tautona.ai,,
-Pineapple,,
-Curacel,,
+Curacel,nigeria,Henry Mascot,henry@curacel.co
 Click2Sure,,
 Egrobots,,
 KaraAgro AI,,
@@ -221,10 +217,10 @@ aiScarecrow Technologies,,
 CLINICAGRO,,
 RoboCare,,
 MedSol AI,,
-hearX Group,,
+hearX Group,south africa,Gustan Naudé,gustan@hearxgroup.com
 IndyGeneUS AI,,
 Afya Rekod,,
-RxAll,,
+RxAll,usa,Adebayo Alonge,braeinz@gmail.com
 10mg Pharma,,
 Proteinea,,
 Rology,,
@@ -246,19 +242,19 @@ Systems One,,
 Coradash,,
 AT Instruments,,
 Envisionit Deep AI,,
-Ubenwa Health,,
+Ubenwa Health,canada,Charles Onu,charles@ubenwa.ai
 Vitruvian MD,,
 Chemotronix,,
 Arone Energy,,
 Debut Infotech,,
-Markovate,,
+Markovate,usa,Mansi Takyar,mansi@markovate.com
 SoloWay Technologies,,
 Integrio Systems,,
 Discretelogix,,
-ThirdEye Data,,
-Trigma,,
+ThirdEye Data,usa,Dj Das,djdas@thirdeyedata.io
+Trigma,canada,
 Umano Logic,,
-Speridian Technologies,,
+Speridian Technologies,usa,Kp Hari,kp.hari@speridian.com
 Technoyuga Soft Pvt. Limited,,
 Iotasol,,
 Master of Code Global,,
@@ -338,18 +334,18 @@ Evotik,,
 DigiExpo,,
 WDCS Technology UAE,,
 Engro Technologies,,
-Apptunix,,
+Apptunix,usa,Nikhil Bansal,bansalnikhil09@gmail.com
 Cygnet.One,,
-VentureDive,,
+VentureDive,usa,Shehzaad Nakhod,shehzaad@venturedive.com
 Appikr Labs,,
 Usetech,,
-Damco Solutions,,
+Damco Solutions,usa,mohit gupta,mohitg@damcogroup.com
 Innosoft Group,,
-Binmile Technologies,,
-Sunmait Technologies,,
+Binmile Technologies,india,Avanish Kamboj,avanish@binmile.com
+Sunmait Technologies,usa,Pavel Dziashchenia,pavel.dziashchenia@sunmait.com
 SCD Company,,
-X-Byte Enterprise Solutions,,
-SoftTeco,,
+X-Byte Enterprise Solutions,usa,Bhavesh Parekh,bhavesh.parekh@xbytesolutions.com
+SoftTeco,bielorussia,Tauras Justinas Janickas,taurasjan@gmail.com
 M TECHUB LLc,,
-ilink,,
+ilink digital,usa,Sridhar Mahadevan,Sridhar Mahadev...		
 Expert App Devs,,
