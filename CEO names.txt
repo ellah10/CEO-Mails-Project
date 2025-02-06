@@ -1,143 +1,8 @@
-Abridge - Shiv Rao shivdev@abridgeitfirm.com
-Adept - David Luan david@adept.ai
-Anduril Industries -  bschimpf@anduril.com
-AssemblyAI - Dylan Fox  dylan@assemblyai.com
-Baseten - Tuhin Srivastava 
-Cerebras Systems - Andrew Feldman
-Character.AI - Noam Shazeer 
-Cleanlab - Curtis Northcutt curtis.northcutt@cleanlab.ai
-Codeium - Varun Mohan varun@codeium.com
-Cresta  usa - Alex Cramer alex@cresta.com
-Databricks usa - Ali Ghodsi ali@databricks.com
-DeepL - Markus Harder markus.harder@deepl.com
-ElevenLabs usa -Mati Staniszewski mati@elevenlabs.io
-Figure AI - Brett Adcock
-Glean - Arvind Jain ajain@glean.com
-Hebbia - George Sivulka  gsiv7@yahoo.com
-Hugging Face - Clément Delangue clem@huggingface.co
-Insitro - Daphne Koller   koller@gmail.com
-Kumo.AI - Vanja Josifovski
-LangChain - Harrison Chase  harrison@langchain.com
-Leonardo.AI - JJ Fiasson 
-Midjourney - Nadia Ali nali@midjourney.com
-Mistral AI - Arthur Mensch	 amensch@mistral.ai
-Notion - Ivan Zhao ivanzhao@makenotion.com
-Owkin - Thomas Clozel  thomas.clozel@owkin.com
-Perplexity Ai -Andy Konwinski	 andy@perplexity.ai
-Photoroom france - Lyline Lim lyline@photoroom.com
-Pinecone - Edo Liberty linkedin@edoliberty.com
-Replicate bioscience usa - Nathaniel Wang	 nwang@replicatebioscience.com
-Scale AI - Alexandr Wang alexandr@scaleapi.com
-Sierra - Bret Taylor
-Synthesia - Victor Riparbelli victor.riparbelli@synthesia.io
-Together AI - No specific information
-Tome - Keith Peiris keith@tome.page
-Tractian - gabriel oliveira gabrieltomeoliveira@hotmail.com
-Unstructured - Brian Raymond briansraymond@gmail.com
-Waabi - Raquel Urtasun raquel.urtasun@epfl.ch
-Weaviate - Etienne Dilocker	 etienne@weaviate.io
-Alibaba Cloud - Eggy Tanuwijaya	 eggy@alibabacloud.com
-DataRobot - Dan Wright  dandotwright@gmail.com
-Google Ai usa  - 	John Almon john@bigdatamvp.com
-Hugging Face - Clément Delangue (listed earlier)
-H2O.ai usa - Arno Candel arno@h2o.ai
-Rasa - usa Alan Nichol alan@rasa.com
-ActiveCampaign - Jason VandeBoom
-ClickUp usa - Zeb Evans zevans@clickup.com
-Freshworks usa - Girish Mathrubootham  girish.mathrubootham@freshworks.com
-HubSpot - Dharmesh Shah	 dshah@hubspot.com
-monday.com  israel - Roy Mann roy@monday.com
-Pipedrive - usa Dominic Allon dominic.allon@pipedrive.com
-Salesforce usa - Cole Conroy cole@roycon-tech.com
-Zoho Corporation usa - Sriram Balakris...	 sriram@zohocorp.com
-Anomali usa - Ahmed Rubaie	 ahmed.rubaie@anomali.com
-CUJO AI usa -Saulius Tvarijonas  saulius.tvarijonas@cujo.com
-Cybereason usa - Shawn Mullican shawn.mullican@cybereason.com
-Darktrace usa 	Christopher Thomas	 christopher.thomas@darktrace.com
-Deep Instinct usa - Lane Bess lane.bess@deepinstinct.com
-Proofpoint usa - Denis Ryan denis.ryan@proofpoint.com
-SentinelOne usa tomer Weingarte  tomerw@sentinelone.com
-Tessian UK - Edward Bishop	 ed.bishop@tessian.com
-Vectra AI  usa - Hitesh Sheth hitesh@vectra.ai
-Qlik  usa - Mike Capone	 mike.capone@qlikview.com
-Sisense usa - Vicki Nichamov  vicki.nichamov@sisense.com
-Splunk usa -Amin Moshgabadi	 amoshgabadi@splunk.com
-ThoughtSpot - Ajeet Singh ajeet.singh@thoughtspot.com
-Ataccama canada - David Holes David.Holes@ataccama.com
-Informatica usa - Amit Walia awalia@informatica.com
-Oracle usa - Chad Rice chad.rice@oracle.com
-Precisely sweden - Nils-Erik Jansson nils-erik@precisely.se
-SAS - Jim Goodnight
-AIMLEAP Outsource BigData - No specific information
-Akkio - Raza Rizvi
-Analytics8 usa - Erin Barnier ebarnier@analytics8.com
-Domo usa - Josh James josh.james@domo.com
-Microsoft - Love andersson love.andersson@microsoft.com
-MicroStrategy usa - Christopher Fleming cfleming@microstrategy.com
-MonkeyLearn - Raul Garreta 
-Rubrik usa Bipul Sinha bipul.sinha@rubrik.com
-Snowflake usa Elliott Ulmer elliott.ulmer@teradata.com
-Teradata - Steve McMillan
-AlphaSense - Jack Kokko
-Bizzabo usa  Alon Alroy alon@bizzabo.com
-C3 AI usa Pat House pat.house@c3.ai
-Icertis usa Monish Darda monish.darda@icertis.com
-People.ai usa Oleg Rogynskyy Oleg@People.ai
-Phrasee UK Parry Malm parry_malm@keybank.com
-The Trade Desk usa Tahnil Davis tahnil.davis@thetradedesk.com
-Brainly poland Michał Borkowski Michal.Borkowski@brainly.com
-CENTURY Tech UK Priya Lakhani priya.lakhani@century.tech
-Harbinger Group india Vikas Joshi vikas@harbingergroup.com
-AutoGrid usa Ruben Llanes ruben.llanes@auto-grid.com
-GE Vernova usa - Scott Strazik  tstrazik@earthlink.net
-Via Science - No specific information
-Xanadu - Christian Weedbrook
-AIBrain usa - Milan Lee milan@aibrain.com
-SoundHound usa - Keyvan Mohajer	 keyvan@soundhound.com
-Tencent - cn Carrie Fan carolinefan@tencent.com
-Cleo usa Sarahjane Sacchetti sarahjane@hicleo.com
-HighRadius usa Sashi Narahari Sashi.Narahari@highradius.com
-Numerai usa Richard Craib richard@numer.ai
-Signifyd usa Greg Adamietz greg.adamietz@signifyd.com
-Upstart usa- Anna Counselman	 anna@upstart.com
-Atomwise usa - Izhar Wallach izhar@atomwise.com
-Enlitic usa - Kevin Lyman kevin@enlitic.com
-PathAI usa Andy Beck Andrew Eye andy.beck@pathai.com
-Suki AI - Punit Soni
-Tempus Labs usa - Eric Lefkofsky eric@tempus.com
-AVEVA usa - Dan van Klavere. dan.vanklaveren@aveva.com
-Bright Machines usa - Paolo Avagliano paolo.avagliano@brightmachines.com
-Dataiku  usa  Clément Stenac clement.stenac@dataiku.com
-DataRobot usa - Debanjan Saha	  debanjan.saha@datarobot.com
-DataToBiz - No specific information
-Domino Data Lab - Nick Elprin  nickelprin@gmail.com
-Graphcore - Nigel Toon  nigel@staddlestone.com
-N5 Sensors usa Abhishek Motaye amotayed@n5sensors.com
-SenseTime china Qian Chen qianchen@sensetime.com
-Agility Robotics - Damion Shelton  damion.shelton@agilityrobotics.com
-Boston Dynamics - Robert Playter   playter@bostondynamics.com
-Diligent Robotics - Andrea Thomaz  andrealthomaz@gmail.com
-Honeybee Robotics -  Chris Chapman
-iRobot - Colin Angle  colin@irobot.com
-Skydio - Adam Bry   adam@skydio.com
-AEye, Inc. - Blair LaCorte blair@lacortes.com
-Anduril Industries - Brian Schimpf bschimpf7@gmail.com
-Nuro - Jiajun Zhu   zhujiajun@gmail.com
-Pony.ai usa James Peng jamespeng@pony.ai
-Waymo - Tekedra Mawakana tekedram@aol.com
-Zoox - Aicha Evans  aicha2evans@yahoo.com
-Agora,usa,Bar Mor,bar@agorareal.com,
-Momenta,china,Xudong Cao,xudong@momenta.ai
-Lynk,usa,Tyghe Speidel,tspeidel@lynk.world
-Zhipu.ai,chine,Zhang Peng,
 AInnovation,chine,
-GotBot,south africa,Nick Argyros,nargyros@gmail.com
 Melio AI,,
 Clevva,,
 Karr Dynamics,,
-Zindi,south africa,megan@zindi.africa
 Xineoh,,
-DataProphet,cape town,Frans Cronje,frans@dataprophet.com
 Eden AI,,
 Isazi,south africa,Avi B,avi@isazi.ai
 LARCAI,,
@@ -217,10 +82,10 @@ aiScarecrow Technologies,,
 CLINICAGRO,,
 RoboCare,,
 MedSol AI,,
-hearX Group,south africa,Gustan Naudé,gustan@hearxgroup.com
+
 IndyGeneUS AI,,
 Afya Rekod,,
-RxAll,usa,Adebayo Alonge,braeinz@gmail.com
+
 10mg Pharma,,
 Proteinea,,
 Rology,,
@@ -242,19 +107,19 @@ Systems One,,
 Coradash,,
 AT Instruments,,
 Envisionit Deep AI,,
-Ubenwa Health,canada,Charles Onu,charles@ubenwa.ai
+
 Vitruvian MD,,
 Chemotronix,,
 Arone Energy,,
 Debut Infotech,,
-Markovate,usa,Mansi Takyar,mansi@markovate.com
+
 SoloWay Technologies,,
 Integrio Systems,,
 Discretelogix,,
-ThirdEye Data,usa,Dj Das,djdas@thirdeyedata.io
+
 Trigma,canada,
 Umano Logic,,
-Speridian Technologies,usa,Kp Hari,kp.hari@speridian.com
+
 Technoyuga Soft Pvt. Limited,,
 Iotasol,,
 Master of Code Global,,
@@ -334,18 +199,35 @@ Evotik,,
 DigiExpo,,
 WDCS Technology UAE,,
 Engro Technologies,,
-Apptunix,usa,Nikhil Bansal,bansalnikhil09@gmail.com
 Cygnet.One,,
-VentureDive,usa,Shehzaad Nakhod,shehzaad@venturedive.com
 Appikr Labs,,
 Usetech,,
-Damco Solutions,usa,mohit gupta,mohitg@damcogroup.com
 Innosoft Group,,
-Binmile Technologies,india,Avanish Kamboj,avanish@binmile.com
-Sunmait Technologies,usa,Pavel Dziashchenia,pavel.dziashchenia@sunmait.com
 SCD Company,,
-X-Byte Enterprise Solutions,usa,Bhavesh Parekh,bhavesh.parekh@xbytesolutions.com
-SoftTeco,bielorussia,Tauras Justinas Janickas,taurasjan@gmail.com
 M TECHUB LLc,,
 ilink digital,usa,Sridhar Mahadevan,Sridhar Mahadev...		
 Expert App Devs,,
+Sakana AI , JAPAN
+WaveForms AI,USA,
+MatX,USA,
+Decagon,USA,
+Pika,USA,
+Crescendo,USA,
+11x,USA,
+poolside,USA
+Tessl,UK
+xAI,USA,
+Krutrim,INDIA,
+CELUS,GERMANY,
+Tech5,SWIZERLAND
+GoodVision,UK,
+Vox,MAELESIA,
+Redis Labs,USA,
+Kellify,ITALY
+TestRigor,USA,
+Nines Radiology,USA,
+Luminoso Technologies,USA
+Sparrho,UK
+Speak,USA
+LIGENTEC SA,USA
+SewerAI,CANADA,
