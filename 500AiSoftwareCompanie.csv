@@ -1,216 +1,216 @@
-Company Name,CEO Names,Countries,Emails;;;;
-Anthropic,USA,Jack Clark,jack@anthropic.com;;;;
-CoreWeave,USA,Brannin McBee,bmcbee@coreweave.com;;;;
-Hugging Face,USA,Clement Delangu...,clement@huggingface.co;;;;
-Shield AI,USA,Ryan Tseng,ryan.tseng@shield.ai;;;;
-Character.AI,USA,Sunita Verma,;;;sunita@character.ai;
-Writer,USA,Waseem Alshikh,waseem@writer.com;;;;
-Runway ML,USA,Anastasis Germa...,anastasis@runwayml.com;;;;
-Cohere,CAN,Ivan Zhang,ivan@cohere.ai;;;;
-Typeface,USA,Nipun Dave,nipun@typeface.ai;;;;
-Pinecone,USA,Edo Liberty,edo@pinecone.io;;;;
-Presight.ai,United Arab Emirates,tpramotedham@presight.ai;;;
-Inworld AI,USA,Ilya Gelfenbeyn,ilya@inworld.ai;;;
-Imbue,USA,Kanjun Qiu,kanjun@imbue.com;;;;
-Pryon,USA,Igor Jablokov,igor.jablokov@pryoninc.com;;;;
-Together AI,USA,Chris Ré,chris@together.xyz;;;;
-Adept,USA,Fred Bertsch,fred@adept.ai;;;;
-ElevenLabs,USA,Mati Staniszews...,mati@elevenlabs.io;;;;
-Synthesia,UK,Steffen Tjerril...,steffen@synthesia.io;;;;
-Unlearn.AI,USA,Aaron Smith,aaron@unlearn.ai;;;;
-AI 21,Israel,Leeor Moses-Vor...,leeor@ai21.com;;;;
-Tome,USA,Matthew Smith,matthew@tome.page;;;;
-Helsing,Germany,Gundbert Scherf,gundbert.scherf@helsing.ai;;;;
-Captions,USA,Mara Dilts,mara@captions.ai;;;;
-Raspberry Pi,UK,Jack Willis,jack.willis@raspberrypi.com;;;;
-Axios HQ,USA,Roy Schwartz,roy.schwartz@axioshq.com;;;;
-Mechanical Orch...,USA,Roque Versace,roque@mechanical-orchard.com;;;;
-Rebellions,South Korea,Sunghyun Park,sunghyun.park@rebellions.ai;;;;
-tinyeinstein,CAN,Oksana Bazhenova,oksana.bazhenova@gmail.com;;;;
-tinyEmail,CAN,Seamas Egan,seamas@tinyemail.com;;;;
-OP3N,USA,Jaeson Ma,jaeson@gmail.com,;;;;
-Uzum,Uzbekistan,Djasur Djumaev,d.djumaev@uzum.com;;;;
-Carbyne,USA,Alex Dizengof,Alex@carbyne911.com;;;;
-Celestial AI,USA,Philip Winterbo...,pwinterbottom@celestial.ai;;;;
-Peroptyx,,Paul McBride,pmcbride@peroptyx.com;;;;
-Helm.ai,USA,Vlad Voroninski,vlad@helm.ai;;;;
-Stability AI,UK,Simon Stevens,simon@stability.ai;;;;
-Pano,USA,Sonia Kastner,sonia@pano.ai;;;;
-Weka.IO,USA,Liran Zvibel,liran.zvibel@weka.io;;;;
-Hayden AI,USA,Vaibhav Ghadiok,vaibhav.ghadiok@hayden.ai;;;;
-Cresta,USA,Alex Cramer,alex@cresta.com;;;;
-AiDash,USA,Abhishek Singh,abhishek@aidash.com;;;;
-Anyscale,USA,Robert Nishihar...,rkn@anyscale.com;;;;
-Jasper,USA,Corey Kelly,corey.kelly@jasper.ai;;;;
-Streamlit,USA,Adrien Treuille,adrien@streamlit.io;;;;
-Kumo.AI,USA,Jure Leskovec,jure@kumo.ai;;;;
-Colossyan,USA,Dominik Kovacs,dominik@colossyan.com;;;;
-AssemblyAI,USA,Dylan Fox,dylan@assemblyai.com;;;;
-Primer AI,USA,Alyssa Haslett,alyssa.haslett@primer.ai;;;;
-Spot AI,USA,Rish Gupta,rish@spotai.co;;;;
-Eatron Technolo...,UK,Umut Genc,umut.genc@eatron.com;;;;
-Altana Trade,USA,Raphael Tehrani...,raphael@altana.ai;;;;
-Fathom Health,USA,Andrew Lockhart,andrew@fathomhealth.com;;;;
-Metropolis,USA,Peter Fisher,peter@metropolis.io;;;;
-Snorkel AI,USA,Alexander Ratne...,alex@snorkel.ai;;;;
-Personal.ai,,Suman Kanuganti,suman@personal.ai;;;;
-Aisera,USA,Muddu Sudhakar,msudhakar@aisera.com;;;;
-MindsDB,USA,Jorge Torres,jorge@mindsdb.com;;;;
-OfferFit,USA,Victor Kostyuk,victor@offerfit.ai;;;;
-Axion Ray,,Daniel First,daniel.first@axionray.com;;;;
-Lexion,USA,James Baird,james@lexion.ai;;;;
-Labviva,USA,Chris Lope,clope@labviva.com;;;;
-Document Crunch,,Joshua Levy,jlevy@documentcrunch.com;;;;
-Bioz,USA,Daniel Levitt,daniel@bioz.com;;;;
-Inbenta Technol...,USA,Melissa Solis,msolis@inbenta.com;;;;
-A-Alpha Bio,USA,David Younger,dyounger@aalphabio.com;;;;
-Causaly,,Yiannis Kiachop...,yiannis@causaly.com;;;;
-Vital,USA,Aaron Patzer,aaron@vitaler.com;;;;
-Private AI,CAN,Patricia Thaine,patricia@private-ai.com;;;;
-Ambient.ai,USA,Vikesh Khanna,vikesh@ambient.ai;;;;
-Fetch.AI,UK,Humayun Sheikh,humayun.sheikh@fetch.ai;;;;
-OpenEnvoy,USA,Matthew Tillman,matthew.tillman@openenvoy.com;;;;
-Evinced,USA,Navin Thadani,navin.thadani@evinced.com;;;;
-snappt,USA,Evan Heuser,evan@snappt.com;;;;
-Wayve,UK,Alex Kendall,alex@wayve.ai;;;;
-GGWP,USA,Dennis Fong,dennis@ggwp.com;;;;
-Aerones,,Janis Putrams,janis.putrams@aerones.com;;;;
-SpotHopper,USA,Niko Ivanovic,niko.ivanovic@spothopperapp.com;;;;
-Rain Neuromorph...,USA,Juan Nino,juan@rain-neuromorphics.com;;;;
-Genesis Therape...,USA,Evan Feinberg,evan@genesistherapeutics.ai;;;;
-Pachama,USA,Diego Gil,diego@pachama.com;;;;
-8Oxbotica,UK,Marta Ostroumof...,marta@oxbotica.com;;;;
-Ushur,USA,Henry Peter,henry.peter@ushur.com;;;;
-Prescient AI,USA,Michael True,mike@prescient-ai.io;;;;
-Cyted,,Rebecca Fitzger...,rebecca.fitzgerald@cyted.ai;;;;
-ALICE Technolog...,USA,Rene Morkos,rene@alicetechnologies.com;;;;
-DigitalOwl,Israel,Yuval Man,yuval@digitalowl.com;;;;
-Ambi Robotics,,Jeff Mahler,jeff@ambirobotics.com;;;;
-Adarga,UK,Becky Haworth,becky.haworth@adarga.ai;;;;
-Miovision,CAN,Tony Brijpaul,tbrijpaul@miovision.com;;;;
-Activeloop,USA,Davit Buniatyan,davit@activeloop.ai;;;;
-DeepCure,USA,Michal Yona,michal@deepcure.ai;;;;
-BetterYou,USA,Sean Higgins,sean@betteryou.ai;;;;
-Docyt,USA,Baglan Rhymes,baglan.rhymes@docyt.com;;;;
-Constructor.io,USA,Michelle Swager,michelle.swager@constructor.io;;;;
-Gridware,USA,Tim Barat,tim@gridware.io;;;;
-VIZIT,USA,Jehan Hamedi,jehan@vizit.com;;;;
-NLX,USA,Vlad Papancea,vlad@nlx.ai;;;;
-Diveplane Corpo...,USA,Mike Resnick,mresnick@diveplane.com;;;;
-quadric.io,USA,Veerbhan Kheter...,veerbhan.kheterpal@quadric.io;;;;
-Continuum Indus...,,Emil Hansen,emil@continuum.industries;;;;
-Modern Business...,USA,Craig Wisneski,craig@akk.io;;;;
-Papercup,UK,Jesse Shemen,jesse@papercup.com;;;;
-Fairbanc,USA,Mir Haque,mir@fairbanc.app;;;;
-PrecisionLife,UK,Steve Gardner,steve@precisionlife.com;;;;
-Cydar Medical,USA,Rob Hague,rob.hague@cydarmedical.com;;;;
-NoTraffic,Israel,Tal Kreisler,tal@notraffic.tech;;;;
-Onebrief,USA,Rafa Pereira,rafa@onebrief.com;;;;
-Beacon Biosigna...,USA,Syd Cash,syd@beacon.bio;;;;
-RadAI,USA,Doktor Gurson,doktor@radai.com;;;;
-Ecopia,CAN,jon Lipinski,jon@ecopiatech.com;;;;
-AZmed,France,Benjamin Mellou...,benjamin@azmed.co;;;;
-Algo,USA,Amjad Hussain,amjad.hussain@algo.com;;;;
-Legalsifter,USA,Kevin Miller,kevin.miller@legalsifter.com;;;;
-Kontakt.io,USA,Philipp Gilsa,philipp@kontakt.io;;;;
-Citylitics,CAN,Mark Richards,mark.richards@citylitics.com;;;;
-WhyLabs,USA,Sam Gracie,sam@whylabs.ai;;;;
-Insite AI,CAN,Shaveer Mirpuri,shaveer@insite.ai;;;;
-Limbic,UK,Ross Harper,ross@limbic.ai;;;;
-Emi Labs,USA,Mateo Cavasotto,mateo@emilabs.ai;;;;
-Zilliz,USA,Charles Xie,cxie@zilliz.com;;;;
-Hyro,USA,Rom Cohen,rom.cohen@hyro.ai;;;;
-Writesonic,USA,Samanyou Garg, samanyugarg@gmail.com;;;;
-Voda.AI,USA,Jim Fitchett,jim@voda.ai;;;;
-Convertedin,USA,Mohamed Fergany,;;;;
-Respondology,USA,Erik Swain,erik@respondology.com;;;;
-BLP Digital AG,Switzerland,Tim Beck,;;;;
-Abacus AI,USA,Arvind Sundarar...,arvind@abacus.ai;;;;
-Robust Intellig...,USA,Kojin Oshiba,kojin.oshiba@robustintelligence.com;;;;
-Aleph Alpha,Germany,Andreas Liebl,;;;;
-CloudNC,UK,Theo Saville,theo@cloudnc.com;;;;
-Sofy AI,,Syed Hamid,syed@sofy.ai;;;;
-Beehive AI,USA,Shai Deljo,shai@beehive.ai;;;;
-Grapevine AI,USA,Aniket Shah,aniket@grapevine.ai;;;;
-Parloa,Germany,Malte Kosub,malte.kosub@parloa.com;;;;
-TrusTrace,SWE,Hrishikesh Raja...,hrishikesh.rajan@trustrace.com;;;;
-DataDome,France,Fabien Grenier,fabien.grenier@datadome.co;;;;
-Expedock,,King Dy,king@expedock.com;;;;
-Deep Render,UK,Arsalan Zafar,arsalan.zafar@deeprender.ai;;;;
-Qualsights,USA,Nihal Advani,nihal@qualsights.com;;;;
-Waabi,CAN,Raquel Urtasun,fbigham@waabi.ai;;;;
-Concentric,USA,Shankar Subrama...,shankar@concentric.ai;;;;
-Pactum,USA,Kristjan Korjus,kristjan@pactum.com;;;;
-care.ai,USA,Patrick McIntyr...,patrick.mcintyre@care.ai;;;;
-Voiceflow,USA,Michael Hood,michael@voiceflow.com;;;;
-GameOn,USA,Alex Beckman,alex@gameontechnology.com;;;;
-Hotelmize,UK,Omry Litvak,omry.litvak@hotelmize.com;;;;
-Rezolve.AI,USA,Manish Sharma,manish@rezolve.ai;;;;
-Arize AI,USA,Beau Moya,bmoya@arize.com;;;;
-Navina Health,Israel,Erez S. Kalman,maor.adlin@navina.ai;;;;
-EnsoData,USA,Sam Rusk,sam@ensodata.com;;;;
-HowNow,UK,Ashish Kumar,ashish@gethownow.com;;;;
-Upstage,South Korea,Lucy Park,lucy@upstage.ai;;;;
-Gero,,Peter Fedichev,peter.fedichev@gero.ai;;;;
-Cricket.com,INDIA,Shubham Khandelwal,;;;;
-Emitrr,USA,Pulkit Gambhir,pulkit@emitrr.com;;;;
-Avelios,NORWAY,Duncan Souster,duncan.souster@me.com;;;;
-InpharmD,USA,Ashish Advani,aaadvani@gmail.com;;;;
-Daivergent,,Byran Dai,byran.dai@daivergent.com;;;;
-Everest Labs,USA,Apurba Pradhan,apurba@everestlabs.ai;;;;
-Duel Tech,UK,Naio Tsarouchis,naio@duel.tech;;;;
-Riverlane,UK,Samin Ishtiaq,samin.ishtiaq@riverlane.com;;;;
-Globaleur,USA,Grace Guhanwang,grace@globaleur.com;;;;
-MassRobotics We...,USA,Joyce Sidopoulo...,joyce@massrobotics.org;;;;
-Bee Partners,USA,Michael Berolzh...,michael@beepartners.vc;;;;
-CarePredict,USA,Maryellen Abreu,mabreu@carepredict.com;;;;
-Jiminny,USA,Tom Lavery,tom.lavery@jiminny.com;;;;
-D-ID,Israel,Eliran Kuta,eliran@d-id.com;;;;
-Aether Biomedic...,USA,Sarra Mullen,sarra.mullen@aetherbiomedical.com;;;;
-Kite Ai,USA,Michael Silva,mike@kitesrm.com;;;;
-Anagenex,USA,Adrian Schreyer,adrian@anagenex.com;;;;
-Musixmatch,ITALY,Rio Caraeff,rio@musixmatch.com;;;;
-Morpheus Space,,Daniel Bock,daniel@morpheus-space.com;;;;
-JITx,USA,Patrick Li,pli@jitx.com;;;;
-Robin AI,UK,James Clough,james@robinai.co.uk;;;;
-Kavida.ai,UK,Aran Fernando,afernando@kavida.ai;;;;
-Optalitix,,Alex Gurr,alex@optalitix.com;;;;
-FrontM,UK,Kiran Venkatesh,kiran@frontm.com;;;;
-frame.ai,USA,Jesse St. Charl...,jesse@frame.ai;;;;
-CalypsoAI,USA,Neil Serebryany,neil@calypsoai.com;;
-Soundtrack Your brand,SWEDEN,Ola Sars,ola@soundtrackyourbrand.com;;;;
-aiXplain,USA,Hassan Sawaf,hsawaf@aixplain.com;;;;
-Tabnine,Israel,Dror Weiss,drorweiss@gmail.com;;;;
-Getvisibility,USA,c,mbrosnan@getvisibility.com;;;;
-Exer.ai,USA,Zaw Thet,zaw@exer.ai;;;;
-Cytora,UK,Richard Hartley,richard.hartley@cytora.com;;;;
-Latent AI,USA,Sek Chai,sek.chai@latentai.com;;;;
-RAI,Israel,Var Shankar,var@responsible.ai;;;;
-Waste Robotics,Canada,Eric Camirand,eric.camirand@wasterobotic.com;;;;
-Multilingual AI...,CAN,Curtis Matlock,curtis@proto.cx;;;;
-PROVEN,USA,Ming Zhao,ming@tryproven.com;;;;
-Invisible AI,USA,Eric Danziger,eric@invisible.ai;;;;
-Nabla Health,France,Alex Lebrun,alex@nabla.com;;;;
-ByteCorp,USA,Abdul Muqsit Abbasi,abdulmuqsit2502@gmail.com;;;;
-Carbonated,USA,Kolbe Launchbau...,kolbe@carbonated.com;;;;
-United Robots,Sweden,Dariusz Mankows...,dariusz.mankowski@unitedrobots.co;;;;
-Secondmind,UK,Gary Brotman,gary.brotman@secondmind.ai;;;;
-KernalBiologics,USA,Burak YILMAZ,burak@kernalbio.com;;;;
-Kloudspot,USA,Ravi Akireddy,ravi@kloudspot.com;;;;
-Noble.AI,USA,Matthew Loomis,matthew.loomis@gmail.com;;;;
-Golden,USA,Jude Gomila,jude@golden.com;;;;
-Bond.ai,USA,Madhavi Kulkarn...,uday@bond.ai;;;;
-Fundraise Up,USA,Peter Byrnes,peter@fundraiseup.com;;;;
-alcemy,Germany,Leopold Spenner,leopold.spenner@alcemy.tech;;;;
-Journi Smart photo,AUSTRIA,Christian Papauschek,nina@journiapp.com;;;;
-Midjourney,USA,Nadia Ali,nali@midjourney.com;;;;
-OCELL,Germany,David Dohmen,david.dohmen@ocell.io;;;;
-Ekkono Solutions,Sweden,Rikard König,rikard@ekkono.ai;;;;
-Minio,USA,Ugur Tigli,ugur@min.io;;;;
-Volta Medical,France,John Slump,ugur@min.io;;;;
-Mitek Systems,USA,Max Carnecchia,mcarnecchia@miteksystems.com;;;;
-Abridge,USA,Shiv Rao, shivdev@abridgeitfirm.com;;;;
-Adept,USA, David Luan, david@adept.ai 
+Company Name,Countries,Ceo names,Emails                                                                                      ; ; ;                    ;
+Anthropic,USA,Jack Clark,jack@anthropic.com                                                                                  ; ; ;                    ;
+CoreWeave,USA,Brannin McBee,bmcbee@coreweave.com                                                                             ; ; ;                    ;
+Hugging Face,USA,Clement Delangu...,clement@huggingface.co                                                                   ; ; ;                    ;
+Shield AI,USA,Ryan Tseng,ryan.tseng@shield.ai                                                                                ; ; ;                    ;
+Character.AI,USA,Sunita Verma,                                                                                               ; ; ;sunita@character.ai ;
+Writer,USA,Waseem Alshikh,waseem@writer.com                                                                                  ; ; ;                    ;
+Runway ML,USA,Anastasis Germa...,anastasis@runwayml.com                                                                      ; ; ;                    ;
+Cohere,CAN,Ivan Zhang,ivan@cohere.ai                                                                                         ; ; ;                    ;
+Typeface,USA,Nipun Dave,nipun@typeface.ai                                                                                    ; ; ;                    ;
+Pinecone,USA,Edo Liberty,edo@pinecone.io                                                                                     ; ; ;                    ;
+Presight.ai,United Arab Emirates,tpramotedham@presight.ai                                                                    ; ; ;
+Inworld AI,USA,Ilya Gelfenbeyn,ilya@inworld.ai                                                                               ; ; ;
+Imbue,USA,Kanjun Qiu,kanjun@imbue.com                                                                                        ; ; ;                    ;
+Pryon,USA,Igor Jablokov,igor.jablokov@pryoninc.com                                                                           ; ; ;                    ;
+Together AI,USA,Chris Ré,chris@together.xyz                                                                                  ; ; ;                    ;
+Adept,USA,Fred Bertsch,fred@adept.ai                                                                                         ; ; ;                    ;
+ElevenLabs,USA,Mati Staniszews...,mati@elevenlabs.io                                                                         ; ; ;                    ;
+Synthesia,UK,Steffen Tjerril...,steffen@synthesia.io                                                                         ; ; ;                    ;
+Unlearn.AI,USA,Aaron Smith,aaron@unlearn.ai                                                                                  ; ; ;                    ;
+AI 21,Israel,Leeor Moses-Vor...,leeor@ai21.com                                                                               ; ; ;                    ;
+Tome,USA,Matthew Smith,matthew@tome.page                                                                                     ; ; ;                    ;
+Helsing,Germany,Gundbert Scherf,gundbert.scherf@helsing.ai                                                                   ; ; ;                    ;
+Captions,USA,Mara Dilts,mara@captions.ai                                                                                     ; ; ;                    ;
+Raspberry Pi,UK,Jack Willis,jack.willis@raspberrypi.com                                                                      ; ; ;                    ;
+Axios HQ,USA,Roy Schwartz,roy.schwartz@axioshq.com                                                                           ; ; ;                    ;
+Mechanical Orch...,USA,Roque Versace,roque@mechanical-orchard.com                                                            ; ; ;                    ;
+Rebellions,South Korea,Sunghyun Park,sunghyun.park@rebellions.ai                                                             ; ; ;                    ;
+tinyeinstein,CAN,Oksana Bazhenova,oksana.bazhenova@gmail.com                                                                 ; ; ;                    ;
+tinyEmail,CAN,Seamas Egan,seamas@tinyemail.com                                                                               ; ; ;                    ;
+OP3N,USA,Jaeson Ma,jaeson@gmail.com,                                                                                         ; ; ;                    ;
+Uzum,Uzbekistan,Djasur Djumaev,d.djumaev@uzum.com                                                                            ; ; ;                    ;
+Carbyne,USA,Alex Dizengof,Alex@carbyne911.com                                                                                ; ; ;                    ;
+Celestial AI,USA,Philip Winterbo...,pwinterbottom@celestial.ai                                                               ; ; ;                    ;
+Peroptyx,,Paul McBride,pmcbride@peroptyx.com                                                                                 ; ; ;                    ;
+Helm.ai,USA,Vlad Voroninski,vlad@helm.ai                                                                                     ; ; ;                    ;
+Stability AI,UK,Simon Stevens,simon@stability.ai                                                                             ; ; ;                    ;
+Pano,USA,Sonia Kastner,sonia@pano.ai                                                                                         ; ; ;                    ;
+Weka.IO,USA,Liran Zvibel,liran.zvibel@weka.io                                                                                ; ; ;                    ;
+Hayden AI,USA,Vaibhav Ghadiok,vaibhav.ghadiok@hayden.ai                                                                      ; ; ;                    ;
+Cresta,USA,Alex Cramer,alex@cresta.com                                                                                       ; ; ;                    ;
+AiDash,USA,Abhishek Singh,abhishek@aidash.com                                                                                ; ; ;                    ;
+Anyscale,USA,Robert Nishihar...,rkn@anyscale.com                                                                             ; ; ;                    ;
+Jasper,USA,Corey Kelly,corey.kelly@jasper.ai                                                                                 ; ; ;                    ;
+Streamlit,USA,Adrien Treuille,adrien@streamlit.io                                                                            ; ; ;                    ;
+Kumo.AI,USA,Jure Leskovec,jure@kumo.ai                                                                                       ; ; ;                    ;
+Colossyan,USA,Dominik Kovacs,dominik@colossyan.com                                                                           ; ; ;                    ;
+AssemblyAI,USA,Dylan Fox,dylan@assemblyai.com                                                                                ; ; ;                    ;
+Primer AI,USA,Alyssa Haslett,alyssa.haslett@primer.ai                                                                        ; ; ;                    ;
+Spot AI,USA,Rish Gupta,rish@spotai.co                                                                                        ; ; ;                    ;
+Eatron Technolo...,UK,Umut Genc,umut.genc@eatron.com                                                                         ; ; ;                    ;
+Altana Trade,USA,Raphael Tehrani...,raphael@altana.ai                                                                        ; ; ;                    ;
+Fathom Health,USA,Andrew Lockhart,andrew@fathomhealth.com                                                                    ; ; ;                    ;
+Metropolis,USA,Peter Fisher,peter@metropolis.io                                                                              ; ; ;                    ;
+Snorkel AI,USA,Alexander Ratne...,alex@snorkel.ai                                                                            ; ; ;                    ;
+Personal.ai,,Suman Kanuganti,suman@personal.ai                                                                               ; ; ;                    ;
+Aisera,USA,Muddu Sudhakar,msudhakar@aisera.com                                                                               ; ; ;                    ;
+MindsDB,USA,Jorge Torres,jorge@mindsdb.com                                                                                   ; ; ;                    ;
+OfferFit,USA,Victor Kostyuk,victor@offerfit.ai                                                                               ; ; ;                    ;
+Axion Ray,,Daniel First,daniel.first@axionray.com                                                                            ; ; ;                    ;
+Lexion,USA,James Baird,james@lexion.ai                                                                                       ; ; ;                    ;
+Labviva,USA,Chris Lope,clope@labviva.com                                                                                     ; ; ;                    ;
+Document Crunch,,Joshua Levy,jlevy@documentcrunch.com                                                                        ; ; ;                    ;
+Bioz,USA,Daniel Levitt,daniel@bioz.com                                                                                       ; ; ;                    ;
+Inbenta Technol...,USA,Melissa Solis,msolis@inbenta.com                                                                      ; ; ;                    ;
+A-Alpha Bio,USA,David Younger,dyounger@aalphabio.com                                                                         ; ; ;                    ;
+Causaly,,Yiannis Kiachop...,yiannis@causaly.com                                                                              ; ; ;                    ;
+Vital,USA,Aaron Patzer,aaron@vitaler.com                                                                                     ; ; ;                    ;
+Private AI,CAN,Patricia Thaine,patricia@private-ai.com                                                                       ; ; ;                    ;
+Ambient.ai,USA,Vikesh Khanna,vikesh@ambient.ai                                                                               ; ; ;                    ;
+Fetch.AI,UK,Humayun Sheikh,humayun.sheikh@fetch.ai                                                                           ; ; ;                    ;
+OpenEnvoy,USA,Matthew Tillman,matthew.tillman@openenvoy.com                                                                  ; ; ;                    ;
+Evinced,USA,Navin Thadani,navin.thadani@evinced.com                                                                          ; ; ;                    ;
+snappt,USA,Evan Heuser,evan@snappt.com                                                                                       ; ; ;                    ;
+Wayve,UK,Alex Kendall,alex@wayve.ai                                                                                          ; ; ;                    ;
+GGWP,USA,Dennis Fong,dennis@ggwp.com                                                                                         ; ; ;                    ;
+Aerones,,Janis Putrams,janis.putrams@aerones.com                                                                             ; ; ;                    ;
+SpotHopper,USA,Niko Ivanovic,niko.ivanovic@spothopperapp.com                                                                 ; ; ;                    ;
+Rain Neuromorph...,USA,Juan Nino,juan@rain-neuromorphics.com                                                                 ; ; ;                    ;
+Genesis Therape...,USA,Evan Feinberg,evan@genesistherapeutics.ai                                                             ; ; ;                    ;
+Pachama,USA,Diego Gil,diego@pachama.com                                                                                      ; ; ;                    ;
+8Oxbotica,UK,Marta Ostroumof...,marta@oxbotica.com                                                                           ; ; ;                    ;
+Ushur,USA,Henry Peter,henry.peter@ushur.com                                                                                  ; ; ;                    ;
+Prescient AI,USA,Michael True,mike@prescient-ai.io                                                                           ; ; ;                    ;
+Cyted,,Rebecca Fitzger...,rebecca.fitzgerald@cyted.ai                                                                        ; ; ;                    ;
+ALICE Technolog...,USA,Rene Morkos,rene@alicetechnologies.com                                                                ; ; ;                    ;
+DigitalOwl,Israel,Yuval Man,yuval@digitalowl.com                                                                             ; ; ;                    ;
+Ambi Robotics,,Jeff Mahler,jeff@ambirobotics.com                                                                             ; ; ;                    ;
+Adarga,UK,Becky Haworth,becky.haworth@adarga.ai                                                                              ; ; ;                    ;
+Miovision,CAN,Tony Brijpaul,tbrijpaul@miovision.com                                                                          ; ; ;                    ;
+Activeloop,USA,Davit Buniatyan,davit@activeloop.ai                                                                           ; ; ;                    ;
+DeepCure,USA,Michal Yona,michal@deepcure.ai                                                                                  ; ; ;                    ;
+BetterYou,USA,Sean Higgins,sean@betteryou.ai                                                                                 ; ; ;                    ;
+Docyt,USA,Baglan Rhymes,baglan.rhymes@docyt.com                                                                              ; ; ;                    ;
+Constructor.io,USA,Michelle Swager,michelle.swager@constructor.io                                                            ; ; ;                    ;
+Gridware,USA,Tim Barat,tim@gridware.io                                                                                       ; ; ;                    ;
+VIZIT,USA,Jehan Hamedi,jehan@vizit.com                                                                                       ; ; ;                    ;
+NLX,USA,Vlad Papancea,vlad@nlx.ai                                                                                            ; ; ;                    ;
+Diveplane Corpo...,USA,Mike Resnick,mresnick@diveplane.com                                                                   ; ; ;                    ;
+quadric.io,USA,Veerbhan Kheter...,veerbhan.kheterpal@quadric.io                                                              ; ; ;                    ;
+Continuum Indus...,,Emil Hansen,emil@continuum.industries                                                                    ; ; ;                    ;
+Modern Business...,USA,Craig Wisneski,craig@akk.io                                                                           ; ; ;                    ;
+Papercup,UK,Jesse Shemen,jesse@papercup.com                                                                                  ; ; ;                    ;
+Fairbanc,USA,Mir Haque,mir@fairbanc.app                                                                                      ; ; ;                    ;
+PrecisionLife,UK,Steve Gardner,steve@precisionlife.com                                                                       ; ; ;                    ;
+Cydar Medical,USA,Rob Hague,rob.hague@cydarmedical.com                                                                       ; ; ;                    ;
+NoTraffic,Israel,Tal Kreisler,tal@notraffic.tech                                                                             ; ; ;                    ;
+Onebrief,USA,Rafa Pereira,rafa@onebrief.com                                                                                  ; ; ;                    ;
+Beacon Biosigna...,USA,Syd Cash,syd@beacon.bio                                                                               ; ; ;                    ;
+RadAI,USA,Doktor Gurson,doktor@radai.com                                                                                     ; ; ;                    ;
+Ecopia,CAN,jon Lipinski,jon@ecopiatech.com                                                                                   ; ; ;                    ;
+AZmed,France,Benjamin Mellou...,benjamin@azmed.co                                                                            ; ; ;                    ;
+Algo,USA,Amjad Hussain,amjad.hussain@algo.com                                                                                ; ; ;                    ;
+Legalsifter,USA,Kevin Miller,kevin.miller@legalsifter.com                                                                    ; ; ;                    ;
+Kontakt.io,USA,Philipp Gilsa,philipp@kontakt.io                                                                              ; ; ;                    ;
+Citylitics,CAN,Mark Richards,mark.richards@citylitics.com                                                                    ; ; ;                    ;
+WhyLabs,USA,Sam Gracie,sam@whylabs.ai                                                                                        ; ; ;                    ;
+Insite AI,CAN,Shaveer Mirpuri,shaveer@insite.ai                                                                              ; ; ;                    ;
+Limbic,UK,Ross Harper,ross@limbic.ai                                                                                         ; ; ;                    ;
+Emi Labs,USA,Mateo Cavasotto,mateo@emilabs.ai                                                                                ; ; ;                    ;
+Zilliz,USA,Charles Xie,cxie@zilliz.com                                                                                       ; ; ;                    ;
+Hyro,USA,Rom Cohen,rom.cohen@hyro.ai                                                                                         ; ; ;                    ;
+Writesonic,USA,Samanyou Garg, samanyugarg@gmail.com                                                                          ; ; ;                    ;
+Voda.AI,USA,Jim Fitchett,jim@voda.ai                                                                                         ; ; ;                    ;
+Convertedin,USA,Mohamed Fergany,                                                                                             ; ; ;                    ;
+Respondology,USA,Erik Swain,erik@respondology.com                                                                            ; ; ;                    ;
+BLP Digital AG,Switzerland,Tim Beck,                                                                                         ; ; ;                    ;
+Abacus AI,USA,Arvind Sundarar...,arvind@abacus.ai                                                                            ; ; ;                    ;
+Robust Intellig...,USA,Kojin Oshiba,kojin.oshiba@robustintelligence.com                                                      ; ; ;                    ;
+Aleph Alpha,Germany,Andreas Liebl,                                                                                           ; ; ;                    ;
+CloudNC,UK,Theo Saville,theo@cloudnc.com                                                                                     ; ; ;                    ;
+Sofy AI,,Syed Hamid,syed@sofy.ai                                                                                             ; ; ;                    ;
+Beehive AI,USA,Shai Deljo,shai@beehive.ai                                                                                    ; ; ;                    ;
+Grapevine AI,USA,Aniket Shah,aniket@grapevine.ai                                                                             ; ; ;                    ;
+Parloa,Germany,Malte Kosub,malte.kosub@parloa.com                                                                            ; ; ;                    ;
+TrusTrace,SWE,Hrishikesh Raja...,hrishikesh.rajan@trustrace.com                                                              ; ; ;                    ;
+DataDome,France,Fabien Grenier,fabien.grenier@datadome.co                                                                    ; ; ;                    ;
+Expedock,,King Dy,king@expedock.com                                                                                          ; ; ;                    ;
+Deep Render,UK,Arsalan Zafar,arsalan.zafar@deeprender.ai                                                                     ; ; ;                    ;
+Qualsights,USA,Nihal Advani,nihal@qualsights.com                                                                             ; ; ;                    ;
+Waabi,CAN,Raquel Urtasun,fbigham@waabi.ai                                                                                    ; ; ;                    ;
+Concentric,USA,Shankar Subrama...,shankar@concentric.ai                                                                      ; ; ;                    ;
+Pactum,USA,Kristjan Korjus,kristjan@pactum.com                                                                               ; ; ;                    ;
+care.ai,USA,Patrick McIntyr...,patrick.mcintyre@care.ai                                                                      ; ; ;                    ;
+Voiceflow,USA,Michael Hood,michael@voiceflow.com                                                                             ; ; ;                    ;
+GameOn,USA,Alex Beckman,alex@gameontechnology.com                                                                            ; ; ;                    ;
+Hotelmize,UK,Omry Litvak,omry.litvak@hotelmize.com                                                                           ; ; ;                    ;
+Rezolve.AI,USA,Manish Sharma,manish@rezolve.ai                                                                               ; ; ;                    ;
+Arize AI,USA,Beau Moya,bmoya@arize.com                                                                                       ; ; ;                    ;
+Navina Health,Israel,Erez S. Kalman,maor.adlin@navina.ai                                                                     ; ; ;                    ;
+EnsoData,USA,Sam Rusk,sam@ensodata.com                                                                                       ; ; ;                    ;
+HowNow,UK,Ashish Kumar,ashish@gethownow.com                                                                                  ; ; ;                    ;
+Upstage,South Korea,Lucy Park,lucy@upstage.ai                                                                                ; ; ;                    ;
+Gero,,Peter Fedichev,peter.fedichev@gero.ai                                                                                  ; ; ;                    ;
+Cricket.com,INDIA,Shubham Khandelwal,                                                                                        ; ; ;                    ;
+Emitrr,USA,Pulkit Gambhir,pulkit@emitrr.com                                                                                  ; ; ;                    ;
+Avelios,NORWAY,Duncan Souster,duncan.souster@me.com                                                                          ; ; ;                    ;
+InpharmD,USA,Ashish Advani,aaadvani@gmail.com                                                                                ; ; ;                    ;
+Daivergent,,Byran Dai,byran.dai@daivergent.com                                                                               ; ; ;                    ;
+Everest Labs,USA,Apurba Pradhan,apurba@everestlabs.ai                                                                        ; ; ;                    ;
+Duel Tech,UK,Naio Tsarouchis,naio@duel.tech                                                                                  ; ; ;                    ;
+Riverlane,UK,Samin Ishtiaq,samin.ishtiaq@riverlane.com                                                                       ; ; ;                    ;
+Globaleur,USA,Grace Guhanwang,grace@globaleur.com                                                                            ; ; ;                    ;
+MassRobotics We...,USA,Joyce Sidopoulo...,joyce@massrobotics.org                                                             ; ; ;                    ;
+Bee Partners,USA,Michael Berolzh...,michael@beepartners.vc                                                                   ; ; ;                    ;
+CarePredict,USA,Maryellen Abreu,mabreu@carepredict.com                                                                       ; ; ;                    ;
+Jiminny,USA,Tom Lavery,tom.lavery@jiminny.com                                                                                ; ; ;                    ;
+D-ID,Israel,Eliran Kuta,eliran@d-id.com                                                                                      ; ; ;                    ;
+Aether Biomedic...,USA,Sarra Mullen,sarra.mullen@aetherbiomedical.com                                                        ; ; ;                    ;
+Kite Ai,USA,Michael Silva,mike@kitesrm.com                                                                                   ; ; ;                    ;
+Anagenex,USA,Adrian Schreyer,adrian@anagenex.com                                                                             ; ; ;                    ;
+Musixmatch,ITALY,Rio Caraeff,rio@musixmatch.com                                                                              ; ; ;                    ;
+Morpheus Space,,Daniel Bock,daniel@morpheus-space.com                                                                        ; ; ;                    ;
+JITx,USA,Patrick Li,pli@jitx.com                                                                                             ; ; ;                    ;
+Robin AI,UK,James Clough,james@robinai.co.uk                                                                                 ; ; ;                    ;
+Kavida.ai,UK,Aran Fernando,afernando@kavida.ai                                                                               ; ; ;                    ;
+Optalitix,,Alex Gurr,alex@optalitix.com                                                                                      ; ; ;                    ;
+FrontM,UK,Kiran Venkatesh,kiran@frontm.com                                                                                   ; ; ;                    ;
+frame.ai,USA,Jesse St. Charl...,jesse@frame.ai                                                                               ; ; ;                    ;
+CalypsoAI,USA,Neil Serebryany,neil@calypsoai.com                                                                             ; ;
+Soundtrack Your brand,SWEDEN,Ola Sars,ola@soundtrackyourbrand.com                                                            ; ; ;                    ;
+aiXplain,USA,Hassan Sawaf,hsawaf@aixplain.com                                                                                ; ; ;                    ;
+Tabnine,Israel,Dror Weiss,drorweiss@gmail.com                                                                                ; ; ;                    ;
+Getvisibility,USA,c,mbrosnan@getvisibility.com                                                                               ; ; ;                    ;
+Exer.ai,USA,Zaw Thet,zaw@exer.ai                                                                                             ; ; ;                    ;
+Cytora,UK,Richard Hartley,richard.hartley@cytora.com                                                                         ; ; ;                    ;
+Latent AI,USA,Sek Chai,sek.chai@latentai.com                                                                                 ; ; ;                    ;
+RAI,Israel,Var Shankar,var@responsible.ai                                                                                    ; ; ;                    ;
+Waste Robotics,Canada,Eric Camirand,eric.camirand@wasterobotic.com                                                           ; ; ;                    ;
+Multilingual AI...,CAN,Curtis Matlock,curtis@proto.cx                                                                        ; ; ;                    ;
+PROVEN,USA,Ming Zhao,ming@tryproven.com                                                                                      ; ; ;                    ;
+Invisible AI,USA,Eric Danziger,eric@invisible.ai                                                                             ; ; ;                    ;
+Nabla Health,France,Alex Lebrun,alex@nabla.com                                                                               ; ; ;                    ;
+ByteCorp,USA,Abdul Muqsit Abbasi,abdulmuqsit2502@gmail.com                                                                   ; ; ;                    ;
+Carbonated,USA,Kolbe Launchbau...,kolbe@carbonated.com                                                                       ; ; ;                    ;
+United Robots,Sweden,Dariusz Mankows...,dariusz.mankowski@unitedrobots.co                                                    ; ; ;                    ;
+Secondmind,UK,Gary Brotman,gary.brotman@secondmind.ai                                                                        ; ; ;                    ;
+KernalBiologics,USA,Burak YILMAZ,burak@kernalbio.com                                                                         ; ; ;                    ;
+Kloudspot,USA,Ravi Akireddy,ravi@kloudspot.com                                                                               ; ; ;                    ;
+Noble.AI,USA,Matthew Loomis,matthew.loomis@gmail.com                                                                         ; ; ;                    ;
+Golden,USA,Jude Gomila,jude@golden.com                                                                                       ; ; ;                    ;
+Bond.ai,USA,Madhavi Kulkarn...,uday@bond.ai                                                                                  ; ; ;                    ;
+Fundraise Up,USA,Peter Byrnes,peter@fundraiseup.com                                                                          ; ; ;                    ;
+alcemy,Germany,Leopold Spenner,leopold.spenner@alcemy.tech                                                                   ; ; ;                    ;
+Journi Smart photo,AUSTRIA,Christian Papauschek,nina@journiapp.com                                                           ; ; ;                    ;
+Midjourney,USA,Nadia Ali,nali@midjourney.com                                                                                 ; ; ;                    ;
+OCELL,Germany,David Dohmen,david.dohmen@ocell.io                                                                             ; ; ;                    ;
+Ekkono Solutions,Sweden,Rikard König,rikard@ekkono.ai                                                                        ; ; ;                    ;
+Minio,USA,Ugur Tigli,ugur@min.io                                                                                             ; ; ;                    ;
+Volta Medical,France,John Slump,ugur@min.io                                                                                  ; ; ;                    ;
+Mitek Systems,USA,Max Carnecchia,mcarnecchia@miteksystems.com                                                                ; ; ;                    ;
+Abridge,USA,Shiv Rao, shivdev@abridgeitfirm.com                                                                              ; ; ;                    ;
+Adept,USA, David Luan, david@adept.ai
 Anduril Industries,USA,Brian Schimpf,bschimpf@anduril.com
 AssemblyAI,USA, Dylan Fox,  dylan@assemblyai.com
 Baseten, USA,Tuhin Srivastava,tuhin@baseten.co
@@ -398,151 +398,133 @@ HAWKAI,GERMANY,Tobias Schweiger,tobias.schweiger@hawk.ai
 Voxel,USA,Anurag Kanungo,anurag@voxelai.com
 Huma.AI,USA,Lana Feng,lana.feng@huma.ai
 Lang.ai,SPAIN,Jorge M,jorge@lang.ai
-"Agolo"                                         ,"United States" ,John Kanarowski,john@agolo.com
-"Numurus"                                       ,"United States" ,Jason Seawall,jason.seawall@numurus.com    
-"PlusAI"                                        ,"United States" ,David Liu,david.liu@plus.ai    
-"TermScout"                                     ,"United States" ,Peter Fatianow,peter@termscout.com    
-"Agora Brands Group"                            ,"United States" , Chris Mitic,chris@agorabrandsgroup.com   
-"Penguin Computing"                             ,"United States" ,Kristopher Whetham,kwhetham@penguincomputing.com    
-"Contify"                                       ,"United States" ,SANDEEP DANDALA,sandeep.dandala@contify.com    
-"Neural Magic"                                  ,"United States" ,Brian Stevens,brian.stevens@neuralmagic.com    
-"Flow Labs"                                     ,"United States" ,Jatish Patel,jatish@flowlabs.ai    
-"Medliminal"                                    ,"United States" ,Rick Gunzel,rickg@medliminal.com    
-"Lincode"                                       ,"United States" ,Rajesh Iyengar,rajesh@lincode.us    
-"Brain Technologies"                            ,"United States" ,Jerry Yue,jerry@brain.ai    
-"Cortechs.ai Radiology Applications"            ,"United States" ,Nathan White ,nwhite@cortechs.ai    
-"Kognition"                                     ,"United States" ,Jim Carroll,jim.carroll@kognition.ai    
-"theMednet"                                     ,"United States" ,Samir Housri,samir.housri@themednet.org    
-"Brain.fm"                                      ,"United States" ,Daniel Clark,daniel@brain.fm    
-"Dynatrace"                                     ,"United States" ,Mostafa Abdallah,mostafa.abdallah@dynatrace.com    
-"ABBYY USA"                                     ,"United States" ,Neil Murphy,neil.murphy@abbyy.com    
-"Leap Motion"                                   ,"United States" ,Michael Buckwald,MBuckwald@leapmotion.com    
-"Entromy"                                       ,"United States" ,Jan Jamrich,Jan.Jamrich@entromy.com    
-"Capacity"                                      ,"United States" ,Thomas Campbell,tcampbell@capacityllc.com    
-"CrowdAI"                                       ,"United States" ,Pablo Garcia,pablo@crowdai.com    
-"CareAR A Xerox Company"                        ,"United States" ,Chetan Gandhi,chetan@carear.com    
-"Audacious Inquiry"                             ,"United States" ,Beth Davidson,bdavidson@ainq.com    
-"Monarch Money"                                 ,"United States" ,Val Agostino,val@monarchmoney.com    
-"Droice Labs"                                   ,"United States" ,Mayur Saxena ,mayur@droicelabs.com    
-"comhttp.com"                                   ,"United States" ,"	Harry Chan,Harry.Chan@etopus.com   
-"Arrangr"                                       ,"United States" ,Adam Perl,adamp@arrangr.com    
-"FunnelBeam"                                    ,"United States" ,Rafat Alvi,rafat@funnelbeam.com                                         
-"Viz.ai"                                        ,"United States" ,Chris Mansi,chris@viz.ai    
-"Corum8"                                        ,"United States" ,Nishant Kothari,nishant@corum8.com    
-"Intellimize"                                   ,"United States" ,Guy Yalif,guy.yalif@intellimize.com    
-"Pattern Computer"                              ,"United States" ,Mark Anderson,mark@patterncomputer.com    
-"Scooterson"                                    ,"United States" ,Mihnea Vries,mihnea@scooterson.com    
-"Fullpower-AI"                                  ,"United States" ,Philippe Kahn ,philippe@fullpower.com   
-"The DropKey App and the Pop-up Studio In A Bag ","United States" ,Michael Teahan ,mteahan@dropkey.com    
-"super.AI"                                      ,"United States" ,Brad Cordova,brad.cordova@super.ai    
-"Blue Fever"                                    ,"United States" ,Greta McAnany,greta@bluefever.com    
-"Vilynx"                                        ,"United States" ,Elisenda BOU-BALUST,elisenda.bou@vilynx.com    
-"Sight Machine"                                 ,"United States" ,Jon Sobel,jsobel@sightmachine.com    
-"DataDock Solutions"                            ,"United States" ,Kumaran Vijayakumar,kumaran.vijayakumar@datadocksolutions.com    
-"Scopio"                                        ,"United States" ,Christina Hawatmeh,christina@scop.io    
-"Aktana"                                        ,"United States" ,John Vitalie,john.vitalie@aktana.com    
-"Health2047"                                    ,"United States" ,Lawrence Cohen,lawrence@health2047.com    
-"Jaxon"                                         ,"United States" ,Scott Cohen,scott@jaxon.ai    
-"Smith.ai"                                      ,"United States" ,Justin Maxwell,justin@smith.ai    
-"Companion Labs"                                ,"United States" ,John Honchariw,john@joincompanion.com    
-"HD Medical Group"                              ,"United States" ,Arvind Thiagarajan,arvind@hdmedicalgroup.com    
-"BootstrapLabs"                                 ,"United States" ,Nicolai Wadstrom,nicolai@bootstraplabs.com    
-"CustomerGlu"                                   ,"United States" ,Prateek Gupta,prateek.gupta@customerglu.com    
-"Voicea"                                        ,"United States" ,Omar Tawakol,omar@voicea.com    
-"Loyalty Juggernaut"                            ,"United States" ,Shyam Shah,shyam.shah@lji.io    
-"ContractRoom"                                  ,"United States" ,Peter Thomson,pthomson@contractroom.com    
-"nDimensional"                                  ,"United States" ,Curt Lefebvre,curt@nd.com       
-"JIFFY.ai"                                      ,"United States" ,Babu Sivadasan,babu.sivadasan@jiffy.ai    
-"Infinia ML"                                    ,"United States" ,Rob Delaney,rob.delaney@infiniaml.com    
-"Numa"                                          ,"United States" ,Tasso Roumeliotis,tassor@numberai.com    
-"Chooch AI"                                     ,"United States" ,Emrah Gultekin,emrah@chooch.ai    
-"Noonum"                                        ,"United States" ,Shankar Vaidyanathan,shankar@noonum.com    
-"Develandoo"                                    ,"United States" ,Albert Stepanyan,albert@scylla.ai    
-"Autosled"                                      ,"United States" ,Dan Sperau,dan@autosled.com    
-"MonJa Commercial Lending Software For Bankers" ,"United States" ,James Wu,james.wu@monjaco.com    
-"Text IQ"                                       ,"United States" ,Apoorv Agarwal    
-"Key2Enable Assistive Technology"               ,"United States" ,Jose Rubinger,jose@key2enable.com    
-"Nex"                                           ,"United States" ,Jay Leib ,jay@nexlp.com    
-"Luminous Computing"                            ,"United States" , Marcus Gomez,marcus@luminouscomputing.com   
-"Apty"                                          ,"United States" ,Krishna Dunthoori ,krishna@apty.io    
-"Healthnote"                                    ,"United States" ,Aaron Rau,aaron.rau@healthnote.com    
-"SellHound"                                     ,"United States" ,Suzanne Wouk,swouk@sellhound.com    
-"Unanimous AI"                                  ,"United States" ,Louis Rosenberg,louis@unanimous.ai    
-"Milton Security"                               ,"United States" ,Eric Cowperthwaite,eric@miltonsecurity.com    
-"Suggestic"                                     ,"United States" ,Shai Rosen,shai.rosen@suggestic.com    
-"BioSymetrics"                                  ,"United States" ,Anthony Iacovone,anthony@biosymetrics.com    
-"Roby"                                          ,"United States" ,Jay Hsueh,jay@tellroby.com    
-"OnSolve"                                       ,"United States" ,Mark Herrington,mark.herrington@onsolve.com    
-"Rex Academy"                                   ,"United States" ,Praveen Charles,praveen@rex.academy    
-"Reboot Rx"                                     ,"United States" ,Laura Kleiman,laura.kleiman@rebootrx.org    
-"ProcessBolt"                                   ,"United States" ,Mike Kelly,mike.kelly@processbolt.com    
-"Datatron"                                      ,"United States" ,Pratap Bhimireddy,Pratap Bhimireddy    
-"Geminus.AI"                                    ,"United States" ,Greg Fallon,greg@geminus.ai    
-"CRiskCo"                                       ,"United States" ,Kasia Kondas,kasia@criskco.com    
-"Kairos"                                        ,"United States" ,Melissa Dova,melissa@kairos.com    
-"Aible"                                         ,"United States" ,Steve Lapin,steve@alphaedison.com    
-"Carpe Data"                                    ,"United States" ,Max Drucker,max.drucker@carpe.io    
-"Frase"                                         ,"United States" ,Frankie Liuzzi,frankie@frase.io    
-"Trust Stamp"                                   ,"United States" ,Gareth Genner,ggenner@truststamp.ai    
-"Anno.ai"                                       ,"United States" ,    
-"Candidly"                                      ,"United States" ,    
-"AITS"                                          ,"United States" ,    
-"Findability Sciences"                          ,"United States" ,    
-"Youper"                                        ,"United States" ,    
-"Cogniac"                                       ,"United States" ,        
-"SuperAnnotate"                                 ,"United States" ,    
-"Ferret"                                        ,"United States" ,    
-"ANOLYTICS"                                     ,"United States" ,    
-"Entopsis"                                      ,"United States" ,    
-"Fovia Ai"                                      ,"United States" ,    
-"Humai"                                         ,"United States" ,    
-"Rokk3r"                                        ,"United States" ,    
-"Microsoft Research"                            ,"United States" ,    
-"DvSum"                                         ,"United States" ,    
-"Impira"                                        ,"United States" ,    
-"Iodine Software"                               ,"United States" ,    
-"Systematix Infotech Pvt. Ltd."                 ,"United States" ,
-"Nanorep"                                       ,"United States" ,    
-"Ople"                                          ,"United States" ,    
-"Phonic"                                        ,"United States" ,    
-"TOGGLE"                                        ,"United States" ,    
-"SupplyAI"                                      ,"United States" ,    
-"GoParrot"                                      ,"United States" ,    
-"[24]7.ai"                                      ,"United States" ,    
-"Soundable Health"                              ,"United States" ,    
-"Symphony Media AI"                             ,"United States" ,    
-"Lately"                                        ,"United States" ,    
-"Humantic AI"                                   ,"United States" ,    
-"Xpand.io"                                      ,"United States" ,    
-"Presentr"                                      ,"United States" ,    
-"Pagarba Solutions"                             ,"United States" ,    
-"Unioncrate"                                    ,"United States" ,    
-"Elo Health"                                    ,"United States" ,    
-"test.ai"                                       ,"United States" ,    
-"Forge.AI"                                      ,"United States" ,    
-"OnSomble"                                      ,"United States" ,    
-"CB4"                                           ,"United States" ,    
-"Rain Neuromorphics"                            ,"United States" ,
-"White Rabbit Intel"                            ,"United States" ,                                      
-"TestRigor"                                     ,"United States" ,        
-"FreJun"                                        ,"United States" ,    
-"Wavelength"                                    ,"United States" ,    
-"Tenfold"                                       ,"United States" ,    
-"Digital Air Strike"                            ,"United States" ,    
-"KeyReply"                                      ,"United States" ,    
-"Nipendo"                                       ,"United States" ,    
-"Botfuel"                                       ,"United States" ,    
-"Presence AI"                                   ,"United States" ,    
-"AppFusions"                                    ,"United States" ,    
-"Symphony AzimaAI"                              ,"United States" ,    
-"Alterra.ai"                                    ,"United States" ,    
-"Scoop.it"                                      ,"United States" ,    
-"Slimmer AI"                                    ,"United States" ,    
-"OspreyData"                                    ,"United States" ,    
-"Thankful"                                      ,"United States" ,    
-"Hyfe"                                          ,"United States" ,    
-"Indix"                                         ,"United States" ,    
-"HealthReveal"                                  ,"United States" ,    
-"Rulai"                                         ,"United States" ,    
-"Trifo Lucy AI Home Robot Vacuum Cleaner"       ,"United States" ,    
-"Zoba"                                          ,"United States" ,    
+Agolo,United States ,John Kanarowski,john@agolo.com
+Numurus,United States,Jason Seawall,jason.seawall@numurus.com
+PlusAI,United States,David Liu,david.liu@plus.ai
+TermScout,United States,Peter Fatianow,peter@termscout.com
+Agora Brands Group,United States, Chris Mitic,chris@agorabrandsgroup.com
+Penguin Computing,United States,Kristopher Whetham,kwhetham@penguincomputing.com
+Contify,United States,SANDEEP DANDALA,sandeep.dandala@contify.com
+Neural Magic,United States,Brian Stevens,brian.stevens@neuralmagic.com
+Flow Labs,United States,Jatish Patel,jatish@flowlabs.ai
+Medliminal,United States,Rick Gunzel,rickg@medliminal.com
+Lincode,United States,Rajesh Iyengar,rajesh@lincode.us
+Brain Technologies,United States,Jerry Yue,jerry@brain.ai
+Cortechs.ai Radiology Applications,United States,Nathan White ,nwhite@cortechs.ai
+Kognition,United States,Jim Carroll,jim.carroll@kognition.ai
+theMednet,United States,Samir Housri,samir.housri@themednet.org
+Brain.fm,United States,Daniel Clark,daniel@brain.fm
+Dynatrace, United States,Mostafa Abdallah,mostafa.abdallah@dynatrace.com
+ABBYY USA,United States,Neil Murphy,neil.murphy@abbyy.com
+Leap Mo,United States,Jan Jamrich,Jan.Jamrich@entromy.com
+Capacity,United States,Thomas Campbell,tcampbell@capacityllc.com
+CrowdAI,United States,Pablo Garcia,pablo@crowdai.com
+CareAR A Xerox Company,United States,Chetan Gandhi,chetan@carear.com
+Audacious Inquiry,United States,Beth Davidson,bdavidson@ainq.com
+Monarch Money,United States,Val Agostino,val@monarchmoney.com
+Droice Labs,United States,Mayur Saxena ,mayur@droicelabs.com
+comhttp.com,United States,Harry Chan,Harry.Chan@etopus.com
+Arrangr,United States,Adam Perl,adamp@arrangr.com
+FunnelBeam,United States,Rafat Alvi,rafat@funnelbeam.com
+Viz.ai,United States,Chris Mansi,chris@viz.ai
+Corum8,United States,Nishant Kothari,nishant@corum8.com
+Intellimize,United States,Guy Yalif,guy.yalif@intellimize.com
+Pattern Computer,United States,Mark Anderson,mark@patterncomputer.com
+Scooterson,United States,Mihnea Vries,mihnea@scooterson.com
+Fullpower-AI,United States,Philippe Kahn ,philippe@fullpower.com
+The DropKey App and the Pop-up Studio In A Bag,United State ,Michael Teahan ,mteahan@dropkey.com
+super.AI,United States,Brad Cordova,brad.cordova@super.ai
+Blue Fever,United States,Greta McAnany,greta@bluefever.com
+Vilynx,United States,Elisenda BOU-BALUST,elisenda.bou@vilynx.com
+Sight Machine,United States,Jon Sobel,jsobel@sightmachine.com
+DataDock Solutions,United States,Kumaran Vijayakumar,kumaran.vijayakumar@datadocksolutions.com
+Scopio, United States,Christina Hawatmeh,christina@scop.io
+Aktana,United States,John Vitalie,john.vitalie@aktana.com
+Health2047,United States,Lawrence Cohen,lawrence@health2047.com
+Jaxon,United States,Scott Cohen,scott@jaxon.ai
+Smith.ai,United States,Justin Maxwell,justin@smith.ai
+Companion Labs,United States,John Honchariw,john@joincompanion.com
+HD Medical Group,United States,Arvind Thiagarajan,arvind@hdmedicalgroup.com
+BootstrapLabs,United States,Nicolai Wadstrom,nicolai@bootstraplabs.com
+CustomerGlu,United States,Prateek Gupta,prateek.gupta@customerglu.com
+Voicea,United States,Omar Tawakol,omar@voicea.com
+Loyalty Juggernaut,United States,Shyam Shah,shyam.shah@lji.io
+ContractRoom,United States,Peter Thomson,pthomson@contractroom.com
+nDimensional,United States,Curt Lefebvre,curt@nd.com
+JIFFY.ai,United States,Babu Sivadasan,babu.sivadasan@jiffy.ai
+Infinia ML,United States,Rob Delaney,rob.delaney@infiniaml.com
+Numa,United States,Tasso Roumeliotis,tassor@numberai.com
+Chooch AI,United States,Emrah Gultekin,emrah@chooch.ai
+Noonum,United States,Shankar Vaidyanathan,shankar@noonum.com
+Develandoo,United States,Albert Stepanyan,albert@scylla.ai
+Autosled,United States,Dan Sperau,dan@autosled.com
+MonJa Commercial Lending Software For Bankers,United States,James Wu,james.wu@monjaco.com
+Key2Enable Assistive Technology,United States,Jose Rubinger,jose@key2enable.com
+Nex,United States,Jay Leib ,jay@nexlp.com
+Luminous Computing, United States, Marcus Gomez,marcus@luminouscomputing.com
+Apty,United States,Krishna Dunthoori ,krishna@apty.io
+Healthnote,United States,Aaron Rau,aaron.rau@healthnote.com
+SellHound,United States,Suzanne Wouk,swouk@sellhound.com
+Unanimous AI,United States,Louis Rosenberg,louis@unanimous.ai
+Milton Security,United States,Eric Cowperthwaite,eric@miltonsecurity.com
+Suggestic,United States,Shai Rosen,shai.rosen@suggestic.com
+BioSymetrics,United States,Anthony Iacovone,anthony@biosymetrics.com
+Roby,United States,Jay Hsueh,jay@tellroby.com
+OnSolve,United States,Mark Herrington,mark.herrington@onsolve.com
+Rex Academy,United States,Praveen Charles,praveen@rex.academy
+Reboot Rx,United States,Laura Kleiman,laura.kleiman@rebootrx.org
+ProcessBolt,United States,Mike Kelly,mike.kelly@processbolt.com
+Datatron,United States,Pratap Bhimireddy,Pratap Bhimireddy
+Geminus.AI,United States,Greg Fallon,greg@geminus.ai
+CRiskCo,United States,Kasia Kondas,kasia@criskco.com
+Kairos,United States,Melissa Dova,melissa@kairos.com
+Aible,United States,Steve Lapin,steve@alphaedison.com
+Carpe Data,United States,Max Drucker,max.drucker@carpe.io
+Frase,United States,Frankie Liuzzi,frankie@frase.io
+Trust Stamp,United States,Gareth Genner,ggenner@truststamp.ai
+Anno.ai,United States ,Steven Witt,steven.witt@gmail.com
+Candidly,United States,Laurel Taylor,laurel.taylor@hotmail.com,
+AITS (Artificial Intelligence Technology Solutions),United States,Steve Reinharz,steve.reinharz@roboticassistancedevices.com
+Findability Sciences,United States,Anand Mahurkar,anand.mahurkar@gmail.com
+Youper,United States,Jose Hamilton Vargas, jvargas2006@gmail.com
+Cogniac,United States,Cognac,contact@boinaud.com
+SuperAnnotate,United States,Tigran Petrosyan,tigrannas@gmail.com
+ANOLYTICS,United States,Prashant Agrawal ,mansichealth@gmail.com
+Entopsis,United States,Obdulio Piloto,mpiloto@gmail.com
+Humai,United States,Humera Khan ,Humerakhan781@gmail.com
+Microsoft Research,United States,Peter Lee,peter.lee@gmail.com
+DvSum,United States,Aashish Singhvi,ashish_singhvi@yahoo.com
+Impira,United States,Ankur Goyal,ankrgyl@gmail.com
+Iodine Software,United States,William Chan,william.chan@gmail.com
+Systematix Infotech Pvt. Ltd.,United States,Ajay Bhoraskar ,awarsudhal4@gmail.com
+Ople,United States,Florian Huettl,florian.huettl@gmail.com
+Phonic,United States,Phoenix,phoenix@gmail.com, phoenix@gmail.com
+TOGGLE,United States,Jan Szilagyi ,jan@toggle.ai
+SupplyAI,United States,Supply,xulu.mk@gmail.com
+GoParrot,United States,Yaniv Nissim,ynissim@elco.lu
+Soundable Health,United States,Catherine J.,cmartzloffart@gmail.com
+Lately,United States,Kate Bradley Chernis,kate@outlandosmusic.com
+Humantic AI,United States,Amarpreet Kalkat,kalkat@gmail.com
+Xpand.io,United States,Deb Bardhan ,deb.bardhan@gmail.com
+Presentr,United States,Tammy Palazzo,tammypalazzo@gmail.com
+Pagarba Solutions,United States,Darrick Sogabe ,tksogabe@gmail.com
+test.ai,United States,Jason Arbon,jarbon@gmail.com
+Forge.AI,United States,Craig Massey,craigemassey@gmail.com
+Rain Neuromorphics,United States,Gordon Hirsch Wilson,gordon.hirsch.wilson@gmail.com
+White Rabbit Intel,United States,Tim Gosnell,imothgosnell@gmail.com
+TestRigor,United States,Artem Golubev,artem.golubev@gmail.com
+FreJun,United States,Subhash Kalluri,deepthijuniorcollegenlg@gmail.com
+Wavelength,United States,Mary Johnson ,maryjohnson.studio@gmail.com
+Digital Air Strike,United States,Alexi Venneri,alexi@digitalairstrike.com
+KeyReply,United States,Peiru Teo,teopeiru@gmail.com
+Nipendo,United States,Eyal Rosenberg,eyal.o.rosenberg@gmail.com
+Presence AI,United States,Michel Meyer,michel.g.meyer@gmail.com
+AppFusions,United States,Ellen Feaheny,ellenfeaheny@appfusions.com
+Alterra.ai,United States,Sergei Burkov,burkov@onsetlabs.com
+Scoop.it,United States,Guillaume Decugis,gdecugis@gmail.com
+Slimmer AI,United States,JC Heyneke,jc@heyneke.net
+OspreyData,United States,Ed Cowsar,ed.cowsar@marpaso.com
+Hyfe,United States,Joe Brew,joebrew@gmail.com
+Rulai,United States,Gary Barnett,gary.barnett@gmail.com
+Trifo Lucy AI Home Robot Vacuum Cleaner,United States,Zhe Zhang,zhezhang@njupt.edu.cn
+
