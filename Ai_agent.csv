@@ -1,3 +1,4 @@
+company name,Country,Ceo name,Email
 UiPath,USA,Daniel Dines,ddines@gmail.com
 clarifai,USA,Matthew Zeiler,mattdzeiler@gmail.com
 Zoho AI,USA,Shailesh Kumar Davey,shkuma@gmail.com
@@ -33,73 +34,68 @@ Amazon AI,USA,Latoya Abram,latoyaabram@amazon.com
 Pypestream,USA,Will Frederick,wfrederick@pypestream.com
 Vicarious,USA,Dileep George,Dileep@vicarious.com
 Babylon Health,USA,Laura O'Riordan,laura.oriordan@babylonhealth.com
+Anthropic,USA,Jack Clark,jack@anthropic.com
+Hugging Face,USA,Clement Delangue,clement@huggingface.co
 heygen,USA,Zhuo Xu,zhuo@heygen.com
 regie.ai,USA,Srinath Sridhar,srinath@regie.ai
 Cohere,CAN,Ivan Zhang,ivan@cohere.ai;;;;
 deepscribe,USA,Akilesh Bapu,akilesh@deepscribe.tech
-Ampcome,usa,
-Osiz Technologies,canada
-Rising Max,usa,Max Vielkov
-eSparkInfo,india
-Database AI,
-Document AI,
-Decision AI ,
-report AI,
-Cosine AI
-adept
-Do Anything Machine
-Google DeepMind Project Astra
-Agents.inc
-Aomni
-Tempus
-Artisan AI
-Anthropic,USA,
-Hugging Face
-Sirius by Sony
-Cleverbot
-dropzone ai,USA,
-cristal dba
-bloop
-synthesia
-altera
-synthflow
-sindarin
-happyrobot
-decart
-yepic
-astrix
-resolve ai
-tektonic ai
-exaforce
-fairmakit
-sre ai
-parity
-revyl,USA,Landseer Enga
-bing
-nabla
-composio
-postgres ml
-synth
-across ai
-memgpt
-snaplogic
-wilson ai
-hebbia
-everstar
-xbow
-evidently
-scrappingbee
-xaver
-raft,USA,Shubhi Mishra,
-sensa
-remark
-stride
-cloudfame
-yampa
-gradient labs
-heymilo
-meticulous
-zenrows
-school ai
-
-
+Cogniflow,India,Marcelo Martínez,mlmartinez2678@yahoo.com,
+Sparx IT Solutions,India,Vikash Sharma,amrrocha@gmail.com,
+resolve ai,Spiros Xanthos,"spiros.xanthos@patterninsight.com",
+school ai,Caleb Hicks,calebhicks@gmail.com,
+CrewAI,João Moura," joao.moura.pt@gmail.com",
+Third Rock Techkno,Tapan Patel,"tapan3112@gmail.com",
+LangChain,Harrison Chase,"harrison@langchain.com",
+Postman,USA,Abhinav Asthana," abhinav@postman.com",
+Instinctools,USA,Chad West,chad.west@instinctools.com,
+Ailoitte,INDIA,Sunil Kumar,"sunilkumarodd65825@gmail.com",
+LeewayHertz,USA,Akash Takyar," akash.biz@gmail.com",
+Xbow,USA,Jason Hundley,"jhundley@xbowsystems.com.",
+Wilson AI,USA,SCOTT WILSON,scott@wilsonai.com,
+Vertex AI Agent Builder,USA,Naresh Ganatra,"ganatraglobal@gmail.com,",
+Hugging Face Transformers Agents,USA,Margaret Mitchell,"margarmitchell@gmail.com,",
+Rapid Innovation,USA,Jesse Anglen,"jesse.anglen@gmail.com",
+copado,USA,Ted Elliott,"telliott@huskers.unl.edu,",
+heygen,USA,Joshua Xu,NCTRResearch@fda.hhs.gov,
+LlamaIndex,USA,Jerry Liu,"jerrylmortgages@gmail.com",
+Blockchain App factoryAnup Kumar,INDIA,"anup.kumar.keshri@gmail.com",
+Bluebash,INDIA,Anuj Dhanju,narsinghverma@gmail.com,
+Sirius by Sony,USA,Emma Sirius,"siriusenergy@aol.com,",
+dropzone ai,USA,Edward Wu,"edbenwu21@gmail.com",
+wilson ai,USA,Rich Wilson,"jrichwilson@gmail.com",
+Ampcome,USA,Sarfraz Nawaz,"sarfraz_m@rediffmail.com,",
+Document AI,USA,Rushabh Sheth,"rushabh.a.sheth@gmail.com",
+Meta’s AI Agents,USA,Mark Zuckerberg,"zuck@fb.com,zuckerberg@fb.com,",
+nabla,France,Alex LeBrun,"a@lxbrun.com,",
+OpenXcell,India,Jayneel Patel,"jayneel.patel@gmail.com",
+10Clouds,Poland,Maciej Cielecki,"cielecki@gmail.com",
+eSparkInfo,India,Harikrishna Kundariya,"hk.krishna972@gmail.com",
+AutoGen,USA,Sean Williams,"sean.williams@eusa-edu.com",
+Sunflower Lab,USA,Ronak Patel,"patel.s.ronak@gmail.com",
+Zep,USA,Amy Hahn,Amy.Hahn@cuanschutz.edu,
+Devin AI,USA,Scott Wu,"scott.wu46@gmail.com",
+HockeyStack,USA,Buğra Gündüz,"bgrgndzz@gmail.com",
+Agents.ai,Sam Mallikarjunan,"sam.mallikarjunan@gmail.com",
+regie.ai,USA,Srinath Sridhar,"srinath.sridhar@gmail.com,srinath@cs.cmu.edu,srinath@regie.ai",
+cognigy,GERMANY,Philipp Heltewig,"p.heltewig@cognigy.com",
+Markovate,USA,Rajeev Sharma,"rajeev@gmail.com",
+AutoGPT,USA,Toran Bruce Richards,"toran@significantgravitas.com",
+AirOps,USA,Alex Halliday,"alex.halliday@columbia.edu",
+OpenAI,USA,Sam Altma,"samhaltman@gmail.com",
+Gemini,USA,Tyler Winklevoss,"tyler@gemini.com",
+Facebook AI Research (FAIR),USA,Yann LeCun,"yann.lecun@gmail.com",
+robin ai,UK,Richard Robinson,"richard.robinson@gmail.com",
+Stack AI,Bernard Aceituno,"bernardo.619aceituno2@gmail.com",
+Amplework Software,USA,Santosh Singh,"singh8935@gmail.com",
+Adept,USA,Fred Bertsch,fred@adept.ai        
+SoluLab,INDIA,Chintan Thakkar,"cmthakkar@gmail.com,
+INORU,INDIA,James Anderson,"james.anderson.1@bc.edu,chriss.moore@mail.com",
+Everstar,USA,Kevin Kong,"kelvin.kong@newcastle.edu.au,missioncentralupdates@gmail.com,kevinkong5@yahoo.com",
+cosine solutions,USA,Russ Holmes,"russ.holmes@cosine-solutions.com",
+across ai,USA,Chris Marin,"thechrismarin@gmail.com",
+AQai,UK,Ross Thornley,"ross@aqai.io",
+PlumerAi,UK,Roeland Nusselder,"roeland@plumerai.com",
+Onebrief,USA,Grant Demaree,"grant@onebrief.com",
+Bioz,USA,Daniel Levitt,"daniel@bioz.com",
+Personal.ai,USA,Suman Kanuganti,suman@personal.ai
